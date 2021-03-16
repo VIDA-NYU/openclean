@@ -1,0 +1,6 @@
+[submodule "openclean-core"]
+	path = openclean-core
+	url = https://github.com/VIDA-NYU/openclean-core
+[submodule "openclean-metanome"]
+	path = openclean-metanome
+	url = https://github.com/VIDA-NYU/openclean-metanome
