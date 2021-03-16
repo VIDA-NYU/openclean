@@ -1,0 +1,53 @@
+# This file is part of the Data Cleaning Library (openclean).
+#
+# Copyright (C) 2018-2021 New York University.
+#
+# openclean is released under the Revised BSD License. See file LICENSE for
+# full license details.
+
+"""Required packages for install, test, docs, and tests."""
+
+from setuptools import setup, find_packages
+
+
+install_requires = [
+    'openclean-core=0.1.1'
+]
+
+
+extras_require = {
+    'menatnome': ['openclean-metanome=0.1.0']
+}
+
+
+# Get long project description text from the README.rst file
+with open('README.rst', 'rt') as f:
+    readme = f.read()
+
+
+setup(
+    name='openclean',
+    version='0.1.0',
+    description='Library for data cleaning and data profiling',
+    long_description=readme,
+    long_description_content_type='text/x-rst',
+    keywords='data cleaning',
+    url='https://github.com/VIDA-NYU/openclean',
+    author='New York University',
+    author_email='heiko.muller@gmail.com',
+    license='New BSD',
+    license_file='LICENSE',
+    packages=find_packages(exclude=('tests',)),
+    include_package_data=True,
+    extras_require=extras_require,
+    install_requires=install_requires,
+    classifiers=[
+        'License :: OSI Approved :: BSD License',
+        'Operating System :: OS Independent',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python'
+    ]
+)
