@@ -110,3 +110,9 @@ ENV/
 
 resources/config/localdev
 .idea/
+
+
+# Example data files
+
+examples/notebooks/*.tsv.gz
+examples/notebooks/.openclean/
