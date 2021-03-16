@@ -14,13 +14,15 @@ install_requires = [
     'openclean-core==0.1.1'
 ]
 
+docker_requires = ['docker']
 
 metanome_requires = ['openclean-metanome==0.1.0']
 
 
 extras_require = {
+    'docker': docker_requires,
     'metanome': metanome_requires,
-    'full': metanome_requires
+    'full': docker_requires + metanome_requires
 }
 
 
