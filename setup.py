@@ -11,12 +11,16 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    'openclean-core=0.1.1'
+    'openclean-core==0.1.1'
 ]
 
 
+metanome_requires = ['openclean-metanome==0.1.0']
+
+
 extras_require = {
-    'menatnome': ['openclean-metanome=0.1.0']
+    'metanome': metanome_requires,
+    'full': metanome_requires
 }
 
 
@@ -31,7 +35,7 @@ setup(
     description='Library for data cleaning and data profiling',
     long_description=readme,
     long_description_content_type='text/x-rst',
-    keywords='data cleaning',
+    keywords='data cleaning data profiling',
     url='https://github.com/VIDA-NYU/openclean',
     author='New York University',
     author_email='heiko.muller@gmail.com',
