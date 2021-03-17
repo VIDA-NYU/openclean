@@ -18,9 +18,9 @@ docker_requires = ['docker']
 
 metanome_requires = ['openclean-metanome==0.1.0']
 
-
 extras_require = {
     'docker': docker_requires,
+    'jupyter': ['jupyter'],
     'metanome': metanome_requires,
     'full': docker_requires + metanome_requires
 }
