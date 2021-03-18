@@ -1,0 +1,1044 @@
+OBJECTID_1 *,Shape *,admin3Name_en,admin3Pcode,admin3RefName,admin3AltName1_en,admin3AltName2_en,admin2Name_en,admin2Pcode,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,date,validOn,validTo,Shape_Length,Shape_Area
+1041,,Olanciti Town,,,,,West Guji,,Oromia,,Ethiopia,,,,,,
+1042,,Gudeya Bila,,,,,Horo Gudru Wellega,,Oromia,,Ethiopia,,,,,,
+1,Polygon,Aba-Korow,ET050699,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.950532,0.171323
+2,Polygon,Abaala,ET020203,<Null>,Aba Ala,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.034157,0.080343
+3,Polygon,Abaala town,ET020209,<Null>,Aba Ala,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.631023,0.01579
+4,Polygon,Ababo,ET041904,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.575575,0.078659
+5,Polygon,Abadir,ET130109,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.227439,0.00158
+6,Polygon,Abay Chomen,ET041905,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.539018,0.069848
+7,Polygon,Abaya,ET041513,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.861231,0.150204
+8,Polygon,Abe Dongoro,ET041910,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.531018,0.090235
+9,Polygon,Abela Abaya,ET070621,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.794127,0.016754
+10,Polygon,Abergele (AM),ET030805,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.742396,0.131289
+11,Polygon,Abergele (TG),ET010210,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.638554,0.094026
+12,Polygon,Abeshege,ET070102,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.378248,0.042863
+13,Polygon,Abi Adi town,ET010211,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.222567,0.001647
+14,Polygon,Abichugna Gne'a,ET040609,Abichugna Gnea,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.667368,0.055719
+15,Polygon,Abobo,ET120201,<Null>,<Null>,<Null>,Agnewak,ET1202,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.397385,0.257546
+16,Polygon,Aboker,ET130108,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.147981,0.000841
+17,Polygon,Abuna Ginde Beret,ET040516,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.592642,0.092228
+18,Polygon,Ada'a,ET040706,Adaa,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.87616,0.062404
+19,Polygon,Adaba,ET041710,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.938403,0.177057
+20,Polygon,Adadle,ET050602,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.044463,0.732359
+21,Polygon,Adama,ET040703,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.205605,0.067495
+22,Polygon,Adama town,ET040714,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.570576,0.009002
+23,Polygon,Adama Tulu Jido Kombolcha,ET040708,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.349395,0.125269
+24,Polygon,Adar,ET020109,<Null>,Adaar,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.129855,0.193803
+25,Polygon,Adda Berga,ET040513,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.567242,0.077843
+26,Polygon,Addi Arekay,ET030101,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.666755,0.122449
+27,Polygon,Addis Ketema (AA),ET140108,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.138227,0.00061
+28,Polygon,Addis Ketema (DD),ET150109,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.152336,0.000909
+29,Polygon,Adet,ET010207,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.383954,0.051306
+30,Polygon,Adete town,ET030799,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.085734,0.000325
+31,Polygon,Adi Daero,ET010111,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.723732,0.008503
+32,Polygon,Adi Hageray,ET010112,<Null>,Makele Adiyabo,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.76751,0.076194
+33,Polygon,Adigrat town,ET010308,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.205092,0.001619
+34,Polygon,Adigudom,ET010607,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.15818,0.001354
+35,Polygon,Adilo,ET070309,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.554254,0.006485
+36,Polygon,Adisezemen town,ET030299,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.073714,0.000302
+37,Polygon,Adiyio,ET070905,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.428197,0.082801
+38,Polygon,Adola,ET041403,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.250014,0.099084
+39,Polygon,Adola town,ET041492,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.215999,0.002237
+40,Polygon,Adwa,ET010204,<Null>,Wereda Adwa,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.637675,0.055118
+41,Polygon,Adwa town,ET010212,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.223112,0.002286
+42,Polygon,Afambo,ET020104,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.929012,0.141589
+43,Polygon,Afdem,ET050105,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.508008,0.210753
+44,Polygon,Afdera,ET020207,<Null>,<Null>,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.354702,1.043307
+45,Polygon,Aga Wayu,ET041482,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.627387,0.051705
+46,Polygon,Agarfa,ET041104,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.859362,0.100111
+47,Polygon,Agaro town,ET040417,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.118838,0.00067
+48,Polygon,Agulae,ET010316,<Null>,Tsira Wenberta,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.755025,0.078442
+49,Polygon,Aheferom,ET010202,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.551193,0.038513
+50,Polygon,Ahsea,ET010215,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.023321,0.030331
+51,Polygon,Akaki,ET042012,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.828369,0.044702
+52,Polygon,Akaki - Kalit,ET140101,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.537546,0.010433
+53,Polygon,Akobo,ET120101,<Null>,<Null>,<Null>,Nuwer,ET1201,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.881411,0.175603
+54,Polygon,Alamata town,ET010411,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.156219,0.001051
+55,Polygon,Albuko,ET030408,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.40038,0.039435
+56,Polygon,Ale,ET040311,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.404289,0.046154
+57,Polygon,Aleltu,ET040617,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.263691,0.040526
+58,Polygon,Aleme Ketma,ET030599,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.087985,0.000353
+59,Polygon,Aleta Chuko,ET160016,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.883064,0.023618
+60,Polygon,Aleta Wendo,ET160005,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.875901,0.016142
+61,Polygon,Aleta Wondo town,ET160021,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.098037,0.000429
+62,Polygon,Alfa,ET031115,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.397418,0.162681
+63,Polygon,Alge Sachi,ET040302,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.770668,0.071714
+64,Polygon,Alicho Woriro,ET072001,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.983127,0.021543
+65,Polygon,Alle Special,ET071205,<Null>,<Null>,<Null>,Alle,ET0712,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.631473,0.064299
+66,Polygon,Amaro,ET072102,<Null>,<Null>,<Null>,Amaro,ET0721,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.899146,0.132688
+67,Polygon,Ambasel,ET030404,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.590562,0.073157
+68,Polygon,Ambo town,ET040515,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.404888,0.003305
+69,Polygon,Ambo Zuria,ET040503,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.485346,0.07694
+70,Polygon,Ameka,ET070215,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.961248,0.015418
+71,Polygon,Ameya,ET041301,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.557855,0.078093
+72,Polygon,Amibara,ET020301,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.782297,0.053024
+73,Polygon,Amigna,ET040810,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.761999,0.105632
+74,Polygon,Amir Nur,ET130107,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.151453,0.000975
+75,Polygon,Amuru,ET041909,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.012986,0.103751
+76,Polygon,Ana Sora,ET041411,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.403761,0.062217
+77,Polygon,Analemmo,ET070208,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.912904,0.018377
+78,Polygon,Anchar,ET040906,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.440107,0.062165
+79,Polygon,Anderacha,ET070801,<Null>,<Null>,<Null>,Sheka,ET0708,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.393661,0.061941
+80,Polygon,Aneded,ET030617,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.79979,0.056302
+81,Polygon,Anfilo,ET041807,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.165405,0.129026
+82,Polygon,Angacha,ET070302,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.664765,0.012542
+83,Polygon,Angolelana Tera,ET030513,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.033676,0.066485
+84,Polygon,Angot,ET030313,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.253468,0.048028
+85,Polygon,Ankasha,ET030903,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.218055,0.044456
+86,Polygon,Ankober,ET030515,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.253322,0.058307
+87,Polygon,Antsokiya,ET030507,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.192892,0.030766
+88,Polygon,Arada,ET140109,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.168017,0.000816
+89,Polygon,Ararso,ET050395,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.227509,0.079361
+90,Polygon,Arba Minch town,ET071021,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.271391,0.002726
+91,Polygon,Arba Minch Zuria,ET071015,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.242081,0.121698
+92,Polygon,Arbegona,ET160003,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.821378,0.018573
+93,Polygon,Areka town,ET070614,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.231906,0.001217
+94,Polygon,Arero,ET041208,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.462943,0.366803
+95,Polygon,Argoba,ET030401,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.06259,0.026064
+96,Polygon,Arguba,ET020306,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.341898,0.030059
+97,Polygon,Aroresa,ET160009,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.08691,0.033268
+98,Polygon,Arsi Negele,ET041703,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.39404,0.10541
+99,Polygon,Arsi Negele town,ET041799,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.294564,0.00257
+100,Polygon,Artuma Fursi,ET031004,<Null>,<Null>,<Null>,Oromia,ET0310,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.173551,0.050646
+101,Polygon,Asayita,ET020103,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.809433,0.134843
+102,Polygon,Asayita town,ET020111,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.373937,0.004163
+103,Polygon,Aseko,ET040802,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.095088,0.044534
+104,Polygon,Asela town,ET040825,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.249074,0.001393
+105,Polygon,Aseliso,ET150201,<Null>,<Null>,<Null>,Dire Dawa rural,ET1502,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.485743,0.008446
+106,Polygon,Asgede,ET010105,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.325931,0.131168
+107,Polygon,Assagirt,ET030514,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.282475,0.041147
+108,Polygon,Assosa,ET060303,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.100059,0.240844
+109,Polygon,Ataye town,ET030598,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.100422,0.000498
+110,Polygon,Atote Ulo,ET071403,<Null>,<Null>,<Null>,Halaba,ET0714,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.590015,0.012122
+111,Polygon,Atsbi,ET010307,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.369176,0.050476
+112,Polygon,Atsbi town,ET010315,<Null>,Atsbi  Endasilassie Town,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.037618,0.000084
+113,Polygon,Aw-Bare,ET050205,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.455962,0.147853
+114,Polygon,Awabel,ET030612,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.705443,0.066894
+115,Polygon,Aware,ET050303,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.035999,0.22626
+116,Polygon,Awash,ET020302,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.615319,0.083475
+117,Polygon,Awash town,ET020396,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.145336,0.000968
+118,Polygon,Aweday town,ET041099,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.371415,0.004866
+119,Polygon,Awra (AF),ET020401,<Null>,<Null>,<Null>,Fanti /Zone 4,ET0204,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.545828,0.190347
+120,Polygon,Awra (TG),ET010507,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.590209,0.071174
+121,Polygon,Axum town,ET010213,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.155134,0.001518
+122,Polygon,Ayehu Guwagusa,ET030908,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.983576,0.041799
+123,Polygon,Ayira,ET040107,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.321841,0.042299
+124,Polygon,Ayisha,ET050101,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.827263,0.444115
+125,Polygon,Aykel town,ET031199,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.072351,0.000249
+126,Polygon,Ayun,ET051001,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.671184,0.147377
+127,Polygon,Babile (OR),ET041004,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.965628,0.400948
+128,Polygon,Babile (SM),ET050203,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.882516,0.028534
+129,Polygon,Babile town,ET041000,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.072581,0.000279
+130,Polygon,Babo,ET040111,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.56621,0.07394
+131,Polygon,Badele Zuria,ET041622,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.563785,0.061091
+132,Polygon,Bahir Dar town,ET030712,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.998165,0.017691
+133,Polygon,Bahirdar Zuria,ET030702,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.992961,0.119628
+134,Polygon,Bako Tibe,ET040506,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.244617,0.052565
+135,Polygon,Bambasi,ET060305,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.134641,0.122646
+136,Polygon,Banja,ET030902,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.799264,0.039695
+137,Polygon,Barey,ET050807,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.918125,0.500923
+138,Polygon,Basketo SP Woreda,ET071601,<Null>,<Null>,<Null>,Basketo,ET0716,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.082053,0.03356
+139,Polygon,Baso Liben,ET030611,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.486414,0.094469
+140,Polygon,Basona Worena,ET030519,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.193705,0.100138
+141,Polygon,Bati,ET031002,<Null>,<Null>,<Null>,Oromia,ET0310,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.965854,0.100322
+142,Polygon,Bati Town,ET031099,<Null>,<Null>,<Null>,Oromia,ET0310,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.084172,0.000301
+143,Polygon,Bayera Koisha,ET070622,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.472517,0.005049
+144,Polygon,Bechena Town,ET030699,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.071656,0.000291
+145,Polygon,Becho (Ilu Aba Bora),ET040314,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.338142,0.048011
+146,Polygon,Becho (SW Shewa),ET041309,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.223868,0.035878
+147,Polygon,Bedele town,ET041621,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.152258,0.000699
+148,Polygon,Bedeno,ET041013,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.594603,0.067489
+149,Polygon,Bedesa,ET040914,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.067028,0.000248
+150,Polygon,Begi,ET040116,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.816532,0.071283
+151,Polygon,Bekoji town,ET040894,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.097422,0.000361
+152,Polygon,Bele Gesgar,ET040823,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.088527,0.052331
+153,Polygon,Bena Tsemay,ET070705,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.223827,0.294058
+154,Polygon,Bensa,ET160008,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.30194,0.027454
+155,Polygon,Berahile,ET020205,<Null>,<Null>,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.902651,0.2439
+156,Polygon,Berbere,ET041114,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.170051,0.128336
+157,Polygon,Bereh,ET042011,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.824102,0.058006
+158,Polygon,Berehet,ET030517,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.294251,0.063536
+159,Polygon,Bero,ET071805,<Null>,<Null>,<Null>,Mirab Omo,ET0718,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.34937,0.048583
+160,Polygon,Berocano,ET050608,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.157179,0.191297
+161,Polygon,Beyeda,ET030102,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.917715,0.080763
+162,Polygon,Bibugn,ET030601,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.382159,0.033064
+163,Polygon,Bidu,ET020208,<Null>,<Null>,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.198428,0.582092
+164,Polygon,Bila Seyo,ET040207,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.649374,0.055151
+165,Polygon,Bilate Zuria,ET160032,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.727522,0.022243
+166,Polygon,Bilcil-Bur,ET050306,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.424525,0.113197
+167,Polygon,Bilidigilu,ET060306,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.31985,0.140655
+168,Polygon,Bilo Nopha,ET040315,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.076456,0.032495
+169,Polygon,Birbirsa Kojowa,ET041596,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.734349,0.016715
+170,Polygon,Bishan Guracha,ET041798,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.33683,0.00371
+171,Polygon,Bishoftu town,ET040709,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.866338,0.014611
+172,Polygon,Bita,ET070910,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.478755,0.089
+173,Polygon,Biyoawale,ET150208,<Null>,<Null>,<Null>,Dire Dawa rural,ET1502,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.990172,0.028827
+174,Polygon,Bizet,ET010310,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.894627,0.013394
+175,Polygon,Bodaley,ET050599,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.585802,0.264919
+176,Polygon,Boditi town,ET070615,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.1697,0.00112
+177,Polygon,Boji Chekorsa,ET040110,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.202527,0.028249
+178,Polygon,Boji Dirmeji,ET040106,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.200412,0.041055
+179,Polygon,Boke,ET040910,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.578914,0.084963
+180,Polygon,Bokh,ET050702,<Null>,<Null>,<Null>,Doolo,ET0507,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.755044,0.661665
+181,Polygon,Boko Dawula,ET070710,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.411248,0.020154
+182,Polygon,Bokolmayo,ET050999,<Null>,<Null>,<Null>,Liban,ET0509,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.312714,0.381415
+183,Polygon,Bole,ET140104,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.498154,0.01042
+184,Polygon,Boloso Bombe,ET070608,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.76343,0.022286
+185,Polygon,Boloso Sore,ET070601,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.18321,0.023596
+186,Polygon,Bona Zuria,ET160017,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.051331,0.016414
+187,Polygon,Boneya Boshe,ET040205,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.056957,0.038983
+188,Polygon,Bonga town,ET070911,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.19279,0.001119
+189,Polygon,Bonke,ET071014,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.750725,0.009767
+190,Polygon,Bora (OR),ET040710,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.304256,0.040585
+191,Polygon,Bora (TG),ET010402,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.637308,0.015547
+192,Polygon,Bore,ET041402,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.403874,0.037057
+193,Polygon,Borecha,ET041607,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.481012,0.060639
+194,Polygon,Boreda,ET071004,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.99824,0.037954
+195,Polygon,Borena /Debresina,ET030412,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.574912,0.0842
+196,Polygon,Boricha,ET160010,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.622071,0.009054
+197,Polygon,Boset,ET040702,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.962686,0.109429
+198,Polygon,Botor Tolay,ET040495,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.042134,0.078628
+199,Polygon,Bugna,ET030301,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.662085,0.108306
+200,Polygon,Bui town,ET070117,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.078941,0.000288
+201,Polygon,Bule,ET070504,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.54288,0.010322
+202,Polygon,Bule Hora,ET041501,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.016685,0.078995
+203,Polygon,Bule Hora town,ET041587,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.162697,0.001023
+204,Polygon,Bulen,ET060207,<Null>,<Null>,<Null>,Metekel,ET0602,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.135412,0.244309
+205,Polygon,Bulike town,ET071508,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.120363,0.000608
+206,Polygon,Bura,ET160024,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.508912,0.008355
+207,Polygon,Burayu,ET042001,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.461897,0.006936
+208,Polygon,Bure (AM),ET030710,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.361749,0.06581
+209,Polygon,Bure (OR),ET040312,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.496766,0.089379
+210,Polygon,Bure town,ET030798,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.133985,0.001029
+211,Polygon,Burji Special,ET072203,<Null>,<Null>,<Null>,Burji,ET0722,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.786873,0.11237
+212,Polygon,Burqod,ET050394,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.087907,0.219453
+213,Polygon,Burqua Dhintu,ET040998,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.883742,0.202155
+214,Polygon,Bursa,ET160015,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.937307,0.013055
+215,Polygon,Butajira town,ET070115,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.164117,0.001324
+216,Polygon,Chabe Gambeltu,ET160029,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.630083,0.010056
+217,Polygon,Chagni town,ET030999,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.169832,0.001433
+218,Polygon,Charati,ET050802,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.313063,0.691827
+219,Polygon,Cheha,ET070110,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.6178,0.045933
+220,Polygon,Chelelektu town,ET070508,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.059763,0.000131
+221,Polygon,Cheliya,ET040505,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.27171,0.032007
+222,Polygon,Chena,ET070909,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.479556,0.040399
+223,Polygon,Chencha,ET071010,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.089539,0.000398
+224,Polygon,Chencha Zuriya,ET071006,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.929949,0.023715
+225,Polygon,Chercher,ET010414,<Null>,Raya Chercher,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.383289,0.061544
+226,Polygon,Cheta,ET070907,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.204003,0.056058
+227,Polygon,Chifra,ET020106,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.144615,0.123194
+228,Polygon,Chila,ET010201,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.310431,0.049471
+229,Polygon,Chilga 1,ET031106,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.596221,0.059819
+230,Polygon,Chilga 2,ET031112,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.640152,0.192533
+231,Polygon,Chinaksen,ET041015,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.833367,0.128366
+232,Polygon,Chire,ET160014,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.7482,0.013492
+233,Polygon,Chiro town,ET040905,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.131186,0.000485
+234,Polygon,Chiro Zuria,ET040913,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.779877,0.056622
+235,Polygon,Chirone,ET160027,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.479174,0.005919
+236,Polygon,Chole,ET040809,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.318985,0.048005
+237,Polygon,Choman Guduru,ET041911,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.975233,0.036774
+238,Polygon,Chora (Buno Bedele),ET041603,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.433484,0.067631
+239,Polygon,Chora (Jimma),ET040415,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.228133,0.068522
+240,Polygon,Chuko town,ET160035,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.069738,0.000162
+241,Polygon,Churso,ET070510,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.630091,0.014587
+242,Polygon,Chwaka,ET041623,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.231762,0.051262
+243,Polygon,Cobi,ET040592,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.064341,0.046415
+244,Polygon,Dabat,ET030105,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.019848,0.090817
+245,Polygon,Dabat town,ET030106,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.104149,0.000397
+246,Polygon,Dabo Hana,ET041605,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.581594,0.061307
+247,Polygon,Daella,ET160034,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.694755,0.012623
+248,Polygon,Dale,ET160004,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.289467,0.023521
+249,Polygon,Dale Sadi,ET041808,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.359088,0.047441
+250,Polygon,Dale Wabera,ET041803,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.634429,0.043539
+251,Polygon,Dalefage,ET020504,<Null>,<Null>,<Null>,Hari /Zone 5,ET0205,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.685412,0.080803
+252,Polygon,Dalocha,ET072005,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.072128,0.024697
+253,Polygon,Dalol,ET020206,<Null>,<Null>,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.64565,0.18699
+254,Polygon,Dama,ET041408,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.062216,0.029182
+255,Polygon,Damboya,ET070307,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.639099,0.013365
+256,Polygon,Damot Gale,ET070602,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.10802,0.019801
+257,Polygon,Damot Pullasa,ET070611,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.599443,0.013512
+258,Polygon,Damot Sore,ET070609,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.060858,0.014426
+259,Polygon,Damot Woide,ET070603,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.629193,0.017654
+260,Polygon,Danan,ET050603,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.735143,0.172821
+261,Polygon,Dangila,ET030901,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.790914,0.075323
+262,Polygon,Dangila town,ET030998,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.110165,0.00075
+263,Polygon,Dangura,ET060201,<Null>,<Null>,<Null>,Metekel,ET0602,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.71753,0.394063
+264,Polygon,Dano,ET040507,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.263828,0.05422
+265,Polygon,Danod,ET050701,<Null>,<Null>,<Null>,Doolo,ET0507,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.736433,0.63557
+266,Polygon,Dansha town,ET010506,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.839824,0.090753
+267,Polygon,Dara,ET160006,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.691561,0.012095
+268,Polygon,Dara Otilicho,ET160025,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.554092,0.009393
+269,Polygon,Daramalo,ET071009,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.856642,0.029579
+270,Polygon,Darara,ET160033,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.880425,0.022556
+271,Polygon,Daratole,ET050788,<Null>,<Null>,<Null>,Doolo,ET0507,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.143043,0.081286
+272,Polygon,Darimu,ET040301,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.012796,0.113127
+273,Polygon,Daro Lebu,ET040909,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.892334,0.108912
+274,Polygon,Daror,ET050392,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.575785,0.571484
+275,Polygon,Dasenech /Kuraz,ET070706,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.17881,0.210664
+276,Polygon,Dawe,ET020503,<Null>,<Null>,<Null>,Hari /Zone 5,ET0205,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.465214,0.061948
+277,Polygon,Dawe Ketchen,ET042106,<Null>,<Null>,<Null>,East Bale,ET0421,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.109189,0.138169
+278,Polygon,Dawo,ET041304,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.460479,0.037937
+279,Polygon,Dawunt,ET030311,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.158023,0.05126
+280,Polygon,Daye town,ET160030,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.071356,0.00021
+281,Polygon,Debark,ET030104,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.780845,0.103947
+282,Polygon,Debark town,ET030198,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.103931,0.000472
+283,Polygon,Debati,ET060205,<Null>,<Null>,<Null>,Metekel,ET0602,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.871576,0.178758
+284,Polygon,Debay Telatgen,ET030607,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.298606,0.051745
+285,Polygon,Debeweyin,ET050504,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.155735,0.203136
+286,Polygon,Debre Berhan town,ET030520,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.920052,0.012059
+287,Polygon,Debre Elias,ET030608,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.685046,0.098426
+288,Polygon,Debre Libanos,ET040607,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.06739,0.023326
+289,Polygon,Debre Markos town,ET030615,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.375309,0.005435
+290,Polygon,Debre Tabor town,ET030210,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.555708,0.009204
+291,Polygon,Debub Achefer,ET030713,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.007179,0.091315
+292,Polygon,Debub Bench,ET071103,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.39839,0.051009
+293,Polygon,Debub Mecha,ET030715,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.668376,0.077442
+294,Polygon,Debub Sodo,ET070119,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.023866,0.022752
+295,Polygon,Decha,ET070908,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.631637,0.087965
+296,Polygon,Dechatu,ET150111,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.062417,0.00011
+297,Polygon,Deder,ET041011,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.653352,0.052927
+298,Polygon,Deder town,ET041097,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.094672,0.000248
+299,Polygon,Dedesa,ET041608,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.947129,0.069016
+300,Polygon,Dedo,ET040410,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.663113,0.064287
+301,Polygon,Dega,ET041604,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.023041,0.029039
+302,Polygon,Dega Damot,ET030707,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.650462,0.068745
+303,Polygon,Degahabur town,ET050307,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.537288,0.01988
+304,Polygon,Degehabur,ET050302,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.985133,0.295659
+305,Polygon,Degehamedo,ET050301,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.407338,0.297422
+306,Polygon,Degeluna Tijo,ET040815,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.577016,0.075882
+307,Polygon,Degem,ET040605,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.523608,0.052959
+308,Polygon,Degua Temben,ET010604,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.574773,0.036515
+309,Polygon,Dehana,ET030803,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.86548,0.136712
+310,Polygon,Dejen,ET030613,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.290625,0.051555
+311,Polygon,Dejen town,ET030698,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.0769,0.000214
+312,Polygon,Deka Suftu,ET050991,<Null>,<Null>,<Null>,Liban,ET0509,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.585894,0.333716
+313,Polygon,Delanta,ET030406,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.700095,0.087684
+314,Polygon,Dembecha,ET030708,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.915917,0.079652
+315,Polygon,Dembel,ET050102,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.010419,0.22242
+316,Polygon,Dembi,ET060404,<Null>,<Null>,<Null>,Kemashi,ET0604,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.173401,0.148356
+317,Polygon,Denba Gofa,ET071502,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.840159,0.065008
+318,Polygon,Denbecha town,ET030717,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.099872,0.000572
+319,Polygon,Denbi Dollo town,ET041806,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.181057,0.001376
+320,Polygon,Dendi,ET040510,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.183391,0.060393
+321,Polygon,Dera (AM),ET030209,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.507227,0.126469
+322,Polygon,Dera (OR),ET040602,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.671609,0.127021
+323,Polygon,Derashe Special,ET072304,<Null>,<Null>,<Null>,Derashe,ET0723,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.440876,0.057089
+324,Polygon,Dessie town,ET030418,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.992664,0.016473
+325,Polygon,Dessie Zuria,ET030409,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.478828,0.077605
+326,Polygon,Dewa Cheffa,ET031001,<Null>,<Null>,<Null>,Oromia,ET0310,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.725617,0.053959
+327,Polygon,Dewa Harewa,ET031005,<Null>,<Null>,<Null>,Oromia,ET0310,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.016829,0.036289
+328,Polygon,Dhas,ET041220,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.624893,0.258453
+329,Polygon,Didu,ET040317,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.588599,0.050089
+330,Polygon,Dig,ET050399,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.386783,0.115963
+331,Polygon,Diga,ET040210,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.273789,0.046408
+332,Polygon,Dihun,ET051006,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.945649,0.17288
+333,Polygon,Diksis,ET040822,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.067555,0.032717
+334,Polygon,Dila town,ET070507,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.19115,0.001164
+335,Polygon,Dila Zuria,ET070505,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.603889,0.010221
+336,Polygon,Dilo,ET041219,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.603042,0.318697
+337,Polygon,Dima (GM),ET120205,<Null>,<Null>,<Null>,Agnewak,ET1202,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.64331,0.697656
+338,Polygon,Dima (TG),ET010115,<Null>,Laelay Tselemti,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.630519,0.071224
+339,Polygon,Dinsho,ET041122,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.422789,0.053209
+340,Polygon,Dire,ET041211,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.298271,0.223503
+341,Polygon,Dire Teyara,ET130106,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.194393,0.000935
+342,Polygon,Disa,ET071709,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.284204,0.061001
+343,Polygon,Dita,ET071008,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.033726,0.023149
+344,Polygon,Doba,ET040902,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.149859,0.050756
+345,Polygon,Dodola,ET041707,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.409733,0.134883
+346,Polygon,Dodola town,ET041700,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.102822,0.000675
+347,Polygon,Dodota,ET040805,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.542924,0.042415
+348,Polygon,Dolo Odo,ET050902,<Null>,<Null>,<Null>,Liban,ET0509,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.63393,0.280562
+349,Polygon,Dolobay,ET050808,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.942142,0.326472
+350,Polygon,Dorani,ET040324,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.073538,0.034688
+351,Polygon,Doyogena,ET070306,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.732432,0.010698
+352,Polygon,Dubluk,ET041291,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.989559,0.190182
+353,Polygon,Dubti,ET020101,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.916061,0.395826
+354,Polygon,Dubti town,ET020107,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.10447,0.000561
+355,Polygon,Dugda,ET040707,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.83834,0.081987
+356,Polygon,Dugda Dawa,ET041515,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.730784,0.149067
+357,Polygon,Duguna Fango,ET070612,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.045211,0.034369
+358,Polygon,Dukem,ET042008,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.046756,0.000048
+359,Polygon,Dulecha,ET020304,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.164854,0.12228
+360,Polygon,Duna,ET070207,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.157039,0.018224
+361,Polygon,Durame town,ET070308,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.214617,0.001113
+362,Polygon,East Belesa,ET031117,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.364059,0.118214
+363,Polygon,East Dembia,ET031111,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.307411,0.040169
+364,Polygon,East Esite,ET030208,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.702829,0.110394
+365,Polygon,East Imi,ET050601,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.463644,0.2618
+366,Polygon,Ebenat,ET030201,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.402342,0.134351
+367,Polygon,Edaga arbi,ET010203,<Null>,Edaba Tsahima,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.300226,0.027662
+368,Polygon,Edaga Hamus town,ET010311,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.063975,0.000243
+369,Polygon,Eferatana Gidem,ET030508,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.408514,0.042187
+370,Polygon,Egela,ET010216,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.196739,0.056266
+371,Polygon,Ejere /Addis Alem,ET040511,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.589617,0.047815
+372,Polygon,Ejersa Lafo,ET040590,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.234887,0.028237
+373,Polygon,El-Ogaden,ET050598,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.014594,0.167704
+374,Polygon,Elale,ET050698,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.699006,0.167713
+375,Polygon,Elidar,ET020102,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.221334,0.90584
+376,Polygon,Elkare /Serer,ET050804,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.704306,0.548359
+377,Polygon,Elwaya,ET041295,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.317981,0.321895
+378,Polygon,Elwayne,ET051002,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.8682,0.197829
+379,Polygon,Emba Alaje,ET010404,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.020293,0.028664
+380,Polygon,Emba Sieneti,ET010219,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.440259,0.033111
+381,Polygon,Emdebir town,ET070116,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.119869,0.000599
+382,Polygon,Enarj Enawga,ET030605,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.458509,0.077137
+383,Polygon,Endabaguna town,ET010114,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.076687,0.000263
+384,Polygon,Endafelasi,ET010218,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.203265,0.038578
+385,Polygon,Endamehoni,ET010405,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.280471,0.037673
+386,Polygon,Enderta,ET010602,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.845882,0.116894
+387,Polygon,Endiguagn,ET070108,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.674027,0.012397
+388,Polygon,Enebse Sarmder,ET030604,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.333491,0.088961
+389,Polygon,Enemay,ET030606,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.658134,0.060285
+390,Polygon,Enemor Ener,ET070111,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.355073,0.04711
+391,Polygon,Enor Ener,ET070120,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.099308,0.027411
+392,Polygon,Ensaro,ET030503,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.052686,0.037226
+393,Polygon,Enticho town,ET010220,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.083486,0.000323
+394,Polygon,Erebti,ET020201,<Null>,<Null>,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.808453,0.217874
+395,Polygon,Erer (HR),ET130105,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.438162,0.008134
+396,Polygon,Erer (SM),ET050104,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.645439,0.348041
+397,Polygon,Erob,ET010302,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.59307,0.077051
+398,Polygon,Euwa,ET020402,<Null>,<Null>,<Null>,Fanti /Zone 4,ET0204,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.792129,0.119813
+399,Polygon,Ezha,ET070103,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.183143,0.027454
+400,Polygon,Ezo /Kogota,ET071007,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.453683,0.006415
+401,Polygon,Fagta Lakoma,ET030905,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.525695,0.054037
+402,Polygon,Farta,ET030204,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.234366,0.06264
+403,Polygon,Fedis,ET041005,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.283008,0.057587
+404,Polygon,Fentale,ET040701,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.013718,0.120304
+405,Polygon,Ferfer,ET050607,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.882959,0.175819
+406,Polygon,Fiche town,ET040613,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.154212,0.001098
+407,Polygon,Fik,ET050402,<Null>,<Null>,<Null>,Erer,ET0504,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.33713,0.282659
+408,Polygon,Filtu,ET050901,<Null>,<Null>,<Null>,Liban,ET0509,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.195705,0.974279
+409,Polygon,Finote Selam town,ET030714,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.354283,0.003528
+410,Polygon,Fogera,ET030203,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.099851,0.091768
+411,Polygon,Freweyni town,ET010313,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.072643,0.000258
+412,Polygon,Gablalu,ET050199,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.871178,0.507359
+413,Polygon,Gachit,ET071801,<Null>,<Null>,<Null>,Mirab Omo,ET0718,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.228221,0.042648
+414,Polygon,Gacho Baba,ET071016,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.970197,0.021345
+415,Polygon,Gaji,ET040113,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.953568,0.024851
+416,Polygon,Galadi,ET050703,<Null>,<Null>,<Null>,Doolo,ET0507,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.723239,0.844696
+417,Polygon,Galhamur,ET050799,<Null>,<Null>,<Null>,Doolo,ET0507,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.879404,0.439975
+418,Polygon,Gambela National Park,ET120200,<Null>,<Null>,<Null>,Agnewak,ET1202,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.029749,0.038713
+419,Polygon,Gambela town,ET120206,<Null>,<Null>,<Null>,Agnewak,ET1202,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.151583,0.001272
+420,Polygon,Gambela Zuria,ET120202,<Null>,<Null>,<Null>,Agnewak,ET1202,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.112114,0.269671
+421,Polygon,Ganta Afeshum,ET010304,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.872116,0.038968
+422,Polygon,Garbo,ET051003,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.05151,0.256216
+423,Polygon,Garda Marta,ET071018,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.266948,0.039623
+424,Polygon,Gasera,ET041106,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.982731,0.092496
+425,Polygon,Gashamo,ET050304,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.670407,0.946552
+426,Polygon,Gawo Kebe,ET041804,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.964733,0.093766
+427,Polygon,Gaz Gibla,ET030804,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.760612,0.085756
+428,Polygon,Gazo,ET030312,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.451337,0.008563
+429,Polygon,Gechi,ET041606,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.640486,0.051987
+430,Polygon,Gedeb,ET070506,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.846665,0.015514
+431,Polygon,Gedeb Asasa,ET041706,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.190494,0.094017
+432,Polygon,Gedeb town,ET070511,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.256347,0.001501
+433,Polygon,Gedebano Gutazer Welene,ET070104,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.965357,0.039688
+434,Polygon,Gelalu,ET020305,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.560058,0.065373
+435,Polygon,Gelana (Finfine),ET042098,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.239118,0.002499
+436,Polygon,Gelana (West Guji),ET041517,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.845689,0.098822
+437,Polygon,Gemechis,ET040912,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.515115,0.085591
+438,Polygon,Gena,ET071704,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.917557,0.032451
+439,Polygon,Gendawuha town,ET031292,<Null>,<Null>,<Null>,West Gondar,ET0312,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.129922,0.000947
+440,Polygon,Gende Kore,ET150110,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.034072,0.00006
+441,Polygon,Gera,ET040408,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.085768,0.114969
+442,Polygon,Geraleta,ET010317,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.211755,0.028992
+443,Polygon,Gerani,ET020110,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.680285,0.371603
+444,Polygon,Gerar Jarso,ET040606,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.526416,0.038992
+445,Polygon,Gerese,ET071013,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.643151,0.054934
+446,Polygon,Gesha,ET070902,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.663103,0.059644
+447,Polygon,Gesuba town,ET070617,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.116428,0.000513
+448,Polygon,Geta,ET070113,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.809372,0.016573
+449,Polygon,Gewane,ET020303,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,5.318353,0.715173
+450,Polygon,Gewata,ET070903,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.578317,0.078129
+451,Polygon,Gezei Gofa,ET071505,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.256582,0.042397
+452,Polygon,Gibe,ET070210,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.018586,0.036718
+453,Polygon,Gida Ayana,ET040203,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.970439,0.132269
+454,Polygon,Gidami,ET041809,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.552646,0.177488
+455,Polygon,Gidan,ET030303,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.895881,0.090274
+456,Polygon,Gidi Bench,ET071106,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.501123,0.010002
+457,Polygon,Gimbi,ET040103,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.923435,0.07402
+458,Polygon,Gimbi town,ET040193,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.307528,0.00247
+459,Polygon,Gimbichu,ET040705,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.853613,0.05466
+460,Polygon,Gimbichu town,ET070213,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.054103,0.000187
+461,Polygon,Gimbo,ET070904,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.723988,0.06391
+462,Polygon,Ginde Beret,ET040501,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.747533,0.106027
+463,Polygon,Ginir,ET042103,<Null>,<Null>,<Null>,East Bale,ET0421,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.25825,0.190684
+464,Polygon,Ginir town,ET042107,<Null>,<Null>,<Null>,East Bale,ET0421,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.22599,0.002851
+465,Polygon,Girawa,ET041016,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.865677,0.091073
+466,Polygon,Girja /Harenfema,ET041410,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.705034,0.073885
+467,Polygon,Gishe Rabel,ET030506,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.332386,0.054459
+468,Polygon,Goba (OR),ET041110,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.309035,0.120157
+469,Polygon,Goba (SP),ET070912,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.742539,0.153674
+470,Polygon,Goba Koricha,ET040907,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.259533,0.033333
+471,Polygon,Goba town,ET041120,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.268686,0.003503
+472,Polygon,Gobu Seyo,ET040208,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.027599,0.028072
+473,Polygon,God-God,ET050899,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.489815,0.129822
+474,Polygon,Gode,ET050604,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.549911,0.189013
+475,Polygon,Godere,ET120301,<Null>,<Null>,<Null>,Majang,ET1203,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.667906,0.053545
+476,Polygon,Godey town,ET050696,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.353309,0.006385
+477,Polygon,Gog,ET120203,<Null>,<Null>,<Null>,Agnewak,ET1202,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.276892,0.265238
+478,Polygon,Goglo,ET050595,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.788647,0.192897
+479,Polygon,Goljano,ET050290,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.736213,0.056456
+480,Polygon,Golo Oda,ET041017,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.393697,0.168233
+481,Polygon,Golocha,ET040803,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.517966,0.091199
+482,Polygon,Gololcha Bale,ET042101,<Null>,<Null>,<Null>,East Bale,ET0421,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.717278,0.182065
+483,Polygon,Goma,ET040407,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.713597,0.070828
+484,Polygon,Gombora,ET070202,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.020674,0.037911
+485,Polygon,Gomole,ET041223,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.233955,0.109758
+486,Polygon,Goncha Siso Enebse,ET030603,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.081656,0.037679
+487,Polygon,Gonder town,ET031118,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.962897,0.024323
+488,Polygon,Gonder Zuria,ET031110,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.183154,0.092103
+489,Polygon,Gonje,ET030718,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.411658,0.052469
+490,Polygon,Gora Dola,ET041413,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.966339,0.192684
+491,Polygon,Gorche,ET160011,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.834864,0.01388
+492,Polygon,Gori Gesha,ET071803,<Null>,<Null>,<Null>,Mirab Omo,ET0718,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.036207,0.108069
+493,Polygon,Goro (Bale),ET041116,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.048462,0.123974
+494,Polygon,Goro (SW Shewa),ET041312,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.046822,0.035319
+495,Polygon,Goro Baqaqsa,ET050903,<Null>,<Null>,<Null>,Liban,ET0509,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.692476,0.378571
+496,Polygon,Goro Gutu,ET041010,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.104445,0.043954
+497,Polygon,Goro Muti,ET041089,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.933752,0.017861
+498,Polygon,Gota-Biki,ET050198,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.389487,0.091213
+499,Polygon,Guagusa Shikudad,ET030907,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.142138,0.024466
+500,Polygon,Guangua,ET030904,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.646943,0.193558
+501,Polygon,Guba,ET060202,<Null>,<Null>,<Null>,Metekel,ET0602,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.465741,0.560323
+502,Polygon,Guba Lafto,ET030307,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.02321,0.066185
+503,Polygon,Guchi,ET041290,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.71284,0.118402
+504,Polygon,Gudetu Kondole,ET040109,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.711182,0.103955
+505,Polygon,Guduru,ET041903,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.657895,0.071244
+506,Polygon,Gulele,ET140110,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.255877,0.00251
+507,Polygon,Gulina,ET020405,<Null>,<Null>,<Null>,Fanti /Zone 4,ET0204,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.431166,0.070347
+508,Polygon,Guliso,ET040119,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.795827,0.047499
+509,Polygon,Gulo Mekeda,ET010301,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.6212,0.042416
+510,Polygon,Gumay,ET040416,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.249735,0.033417
+511,Polygon,Gumbi Bordede,ET040991,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.68486,0.113743
+512,Polygon,Gumer,ET070109,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.842285,0.019123
+513,Polygon,Gumi Idalo,ET041497,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.375379,0.20556
+514,Polygon,Guna,ET040819,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.334282,0.038579
+515,Polygon,Guna Begemider,ET030212,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.505262,0.038598
+516,Polygon,Gunagado,ET050305,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.223353,0.199697
+517,Polygon,Gununo Hamus town,ET070618,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.083269,0.000381
+518,Polygon,Gura Damole,ET041115,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.726139,0.419927
+519,Polygon,Guradamole,ET050904,<Null>,<Null>,<Null>,Liban,ET0509,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.59202,0.230945
+520,Polygon,Gurafereda,ET071102,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.503098,0.206958
+521,Polygon,Gursum (OR),ET041003,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.488721,0.07469
+522,Polygon,Gursum (SM),ET050202,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.677698,0.016499
+523,Polygon,Guto Gida,ET040213,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.676346,0.077489
+524,Polygon,Guzamn,ET030610,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.647776,0.097178
+525,Polygon,Habro,ET040908,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.340268,0.061065
+526,Polygon,Habru,ET030308,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.978133,0.109246
+527,Polygon,Hadelela,ET020505,<Null>,<Null>,<Null>,Hari /Zone 5,ET0205,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.768621,0.103768
+528,Polygon,Hadero town,ET070312,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.175686,0.001199
+529,Polygon,Hadero Tunto,ET070305,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.890721,0.014386
+530,Polygon,Hadhagala,ET050106,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.260077,0.324004
+531,Polygon,Hafat Issa,ET150112,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.026389,0.000031
+532,Polygon,Hagere Mariam,ET030516,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.371036,0.058818
+533,Polygon,Hagere Selam town,ET010605,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.117697,0.000437
+534,Polygon,Hahayle,ET010217,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.871889,0.017164
+535,Polygon,Hakim,ET130104,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.267416,0.003428
+536,Polygon,Halu /Huka,ET040319,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.981943,0.030902
+537,Polygon,Hambela Wamena,ET041509,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.455518,0.04927
+538,Polygon,Hamer,ET070704,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.786442,0.480721
+539,Polygon,Hamero,ET050404,<Null>,<Null>,<Null>,Erer,ET0504,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.025955,0.188025
+540,Polygon,Hanruka,ET020307,<Null>,<Null>,<Null>,Gabi /Zone 3,ET0203,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.612822,0.232663
+541,Polygon,Hararey,ET051096,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.433113,0.128197
+542,Polygon,Harawo,ET050299,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.76392,0.126591
+543,Polygon,Harena Buluk,ET041111,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.008141,0.157338
+544,Polygon,Hargele,ET050806,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.654294,0.686358
+545,Polygon,Haro Limu,ET040204,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.82554,0.096557
+546,Polygon,Haro Maya,ET041006,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.403926,0.041905
+547,Polygon,Haro Walabu,ET041490,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.862421,0.021176
+548,Polygon,Haromaya town,ET041019,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.103549,0.000464
+549,Polygon,Haroreys,ET050298,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.207762,0.068371
+550,Polygon,Harshin,ET050207,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.445472,0.372548
+551,Polygon,Haru,ET040114,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.275376,0.038109
+552,Polygon,Hawa Galan,ET041801,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.425846,0.065079
+553,Polygon,Hawasa town,ET160018,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.727905,0.01366
+554,Polygon,Hawassa Zuria,ET160002,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.765736,0.02404
+555,Polygon,Hawela,ET160023,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.695084,0.007718
+556,Polygon,"Hawi Gudina
+",ET040915,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.771471,0.252844
+557,Polygon,Hawzen,ET010305,<Null>,Wereda Hawzen,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.845246,0.061872
+558,Polygon,Hawzen town,ET010312,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.073852,0.000342
+559,Polygon,Heban Arsi,ET041783,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.303162,0.045234
+560,Polygon,Hidabu Abote,ET040603,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.178248,0.04153
+561,Polygon,Higloley,ET050597,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.923212,0.212248
+562,Polygon,Hike town,ET030499,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.067604,0.000163
+563,Polygon,Hintalo,ET010603,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.164879,0.075081
+564,Polygon,Hitosa,ET040807,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.406278,0.056667
+565,Polygon,Hobicha Abaya,ET070619,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.994217,0.036272
+566,Polygon,Hokko,ET160031,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.974988,0.028603
+567,Polygon,Holeta town,ET042020,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.237535,0.001468
+568,Polygon,Homa,ET040117,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.488189,0.007456
+569,Polygon,Homosha,ET060307,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.273172,0.05818
+570,Polygon,Horo,ET041901,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.519601,0.032212
+571,Polygon,Horo Buluk,ET041912,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.432235,0.042021
+572,Polygon,Horshagah,ET051095,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.89695,0.192618
+573,Polygon,Hosaena town,ET070211,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.241351,0.003317
+574,Polygon,Hudet,ET051104,<Null>,<Null>,<Null>,Daawa,ET0511,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.368688,0.102593
+575,Polygon,Hulbareg,ET072008,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.904176,0.032622
+576,Polygon,Hulet Ej Enese,ET030602,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.227109,0.123313
+577,Polygon,Hulla,ET160007,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.835542,0.013224
+578,Polygon,Humbo,ET070604,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.17559,0.026441
+579,Polygon,Hurumu,ET040316,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.332095,0.036416
+580,Polygon,Ibantu,ET040202,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.289389,0.068195
+581,Polygon,Ifata,ET040519,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.091717,0.036638
+582,Polygon,Illu Galan,ET040500,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.09046,0.034847
+583,Polygon,Ilu,ET041305,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.857715,0.020021
+584,Polygon,Indasilassie town,ET010108,<Null>,Shire Indasilassie Town,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.155854,0.001225
+585,Polygon,Injibara town,ET030996,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.219854,0.002307
+586,Polygon,Inkolo Wabe,ET040824,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.945616,0.026054
+587,Polygon,Isara,ET071705,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.432079,0.088152
+588,Polygon,Itang,ET120407,<Null>,<Null>,<Null>,Itang Special woreda,ET1204,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.207543,0.180501
+589,Polygon,Jabi Tehnan,ET030709,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.787045,0.099202
+590,Polygon,Jajura town,ET070214,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.061224,0.000269
+591,Polygon,Jama,ET030414,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.614354,0.086919
+592,Polygon,Janamora,ET030103,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.439809,0.108074
+593,Polygon,Jarso (East Hararghe),ET041002,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.379979,0.04751
+594,Polygon,Jarso (West Wellega),ET040108,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.170503,0.038664
+595,Polygon,Jarte Jardega,ET041908,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.628769,0.08453
+596,Polygon,Jawi,ET030906,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.338023,0.272776
+597,Polygon,Jeju,ET040804,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.456398,0.066193
+598,Polygon,Jeldessa,ET150206,<Null>,<Null>,<Null>,Dire Dawa rural,ET1502,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.811029,0.028006
+599,Polygon,Jeldu,ET040502,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.623413,0.06164
+600,Polygon,Jibat,ET040518,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.479628,0.039717
+601,Polygon,Jida,ET040615,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.735547,0.040148
+602,Polygon,Jigjiga town,ET050293,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.607,0.018326
+603,Polygon,Jikawo,ET120103,<Null>,<Null>,<Null>,Nuwer,ET1201,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.509055,0.054395
+604,Polygon,Jilye Tumuga,ET031003,<Null>,<Null>,<Null>,Oromia,ET0310,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.566421,0.073471
+605,Polygon,Jimma Arjo,ET040214,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.236381,0.062162
+606,Polygon,Jimma Genete,ET041906,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.063118,0.034859
+607,Polygon,Jimma Horo,ET041810,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.938063,0.034383
+608,Polygon,Jimma Rare,ET041907,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.787089,0.028314
+609,Polygon,Jimma town,ET040418,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.525267,0.007506
+610,Polygon,Jinela,ET130103,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.191569,0.001568
+611,Polygon,Jinka town,ET070709,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.152793,0.000725
+612,Polygon,Jore,ET120204,<Null>,<Null>,<Null>,Agnewak,ET1202,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.134884,0.272276
+613,Polygon,Kacha Bira,ET070304,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.946677,0.015009
+614,Polygon,Kache,ET071706,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.666829,0.017657
+615,Polygon,Kafta Humera,ET010501,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.575545,0.418655
+616,Polygon,Kalu,ET030407,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.967765,0.0705
+617,Polygon,Kamashi,ET060403,<Null>,<Null>,<Null>,Kemashi,ET0604,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.39491,0.124529
+618,Polygon,Karat town,ET071301,<Null>,<Null>,<Null>,Konso,ET0713,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.075521,0.000234
+619,Polygon,Karat Zuria,ET071303,<Null>,<Null>,<Null>,Konso,ET0713,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.05912,0.081432
+620,Polygon,Kawo Koisha,ET070620,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.716954,0.013367
+621,Polygon,Kazira,ET150113,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.199203,0.001056
+622,Polygon,Kebena,ET070101,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.134356,0.01937
+623,Polygon,Kebribayah town,ET050296,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.18726,0.00239
+624,Polygon,Kebribeyah,ET050206,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.360048,0.233739
+625,Polygon,Kebridehar,ET050502,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.780824,0.195875
+626,Polygon,Kebridehar town,ET050592,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.356863,0.009428
+627,Polygon,Kediada Gambela,ET070303,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.718335,0.007967
+628,Polygon,Kelafo,ET050605,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.951562,0.459757
+629,Polygon,Kelela,ET030413,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.091419,0.118024
+630,Polygon,Kelete Awelallo,ET010306,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.874372,0.042919
+631,Polygon,Kemba,ET071011,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.247907,0.055028
+632,Polygon,Kemba town,ET071012,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.060748,0.000197
+633,Polygon,Kemisie town,ET031006,<Null>,<Null>,<Null>,Oromia,ET0310,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.075112,0.00031
+634,Polygon,Kena,ET071304,<Null>,<Null>,<Null>,Konso,ET0713,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.478567,0.078495
+635,Polygon,Kercha,ET041502,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.393552,0.04583
+636,Polygon,Kersa (East Hararge),ET041008,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.15231,0.039308
+637,Polygon,Kersa (Jimma),ET040405,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.078534,0.079535
+638,Polygon,Kersana Malima,ET041307,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.123692,0.050125
+639,Polygon,Kewet,ET030512,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.771963,0.062388
+640,Polygon,Keyhe tekli,ET010221,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.538504,0.059787
+641,Polygon,Kibet town,ET072011,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.368948,0.003949
+642,Polygon,Kiltu Kara,ET040105,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.142926,0.034541
+643,Polygon,Kimbibit,ET040610,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.886722,0.052223
+644,Polygon,Kindo Daddaye,ET070610,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.818891,0.022223
+645,Polygon,Kindo Koyesha,ET070606,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.192775,0.042288
+646,Polygon,Kinfaz,ET031122,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.781598,0.148399
+647,Polygon,Kiremu,ET040217,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.168136,0.087437
+648,Polygon,Kirkos,ET140106,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.173027,0.001203
+649,Polygon,Kobo town,ET030399,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.090707,0.000491
+650,Polygon,Kochere,ET070503,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.781642,0.012569
+651,Polygon,Kofele,ET041704,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.684592,0.054895
+652,Polygon,Kohle /Qoxle,ET050898,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.096309,0.205188
+653,Polygon,Kokosa,ET041708,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.361785,0.051799
+654,Polygon,Kola Temben,ET010208,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.621265,0.059981
+655,Polygon,Kolfe - Keran,ET140103,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.454927,0.005632
+656,Polygon,Kombolcha,ET041001,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.921564,0.024677
+657,Polygon,Kombolcha town,ET030417,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.574097,0.010943
+658,Polygon,Konta,ET071901,<Null>,<Null>,<Null>,Konta Special,ET0719,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.848128,0.19255
+659,Polygon,Koran /Mulla,ET050297,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.465926,0.120689
+660,Polygon,Korarit,ET010508,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.115664,0.040472
+661,Polygon,Kore,ET041705,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.713918,0.041118
+662,Polygon,Korem town,ET010410,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.124388,0.000933
+663,Polygon,Kori,ET020108,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.364395,0.2385
+664,Polygon,Kucha,ET071019,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.53973,0.080705
+665,Polygon,Kucha Alpha,ET071017,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.965012,0.03281
+666,Polygon,Kulito town,ET071401,<Null>,<Null>,<Null>,Halaba,ET0714,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.128929,0.000806
+667,Polygon,Kumbi,ET041098,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.039114,0.269158
+668,Polygon,Kuni /Oda Bultum,ET040911,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.510571,0.112849
+669,Polygon,Kunneba,ET020202,<Null>,<Null>,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.968627,0.029228
+670,Polygon,Kurfa Chele,ET041007,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.010277,0.019995
+671,Polygon,Kurmuk,ET060302,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.620916,0.103809
+672,Polygon,Kutaber,ET030403,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.400186,0.059652
+673,Polygon,Kuyu,ET040604,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.750821,0.078055
+674,Polygon,Laelay Adiabo,ET010102,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.946738,0.047607
+675,Polygon,Laelay Maychew,ET010205,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.954481,0.039606
+676,Polygon,Lagahida,ET050407,<Null>,<Null>,<Null>,Erer,ET0504,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.252909,0.044191
+677,Polygon,Lalibela town,ET030398,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.11277,0.000649
+678,Polygon,Lalo Asabi,ET040104,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.271332,0.031141
+679,Polygon,Lalo Kile,ET041811,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.373967,0.038904
+680,Polygon,Lanfero,ET072003,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.931618,0.018819
+681,Polygon,Lare,ET120102,<Null>,<Null>,<Null>,Nuwer,ET1201,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.172505,0.046656
+682,Polygon,Lasdhankayre,ET050596,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.567653,0.104335
+683,Polygon,Lasta,ET030310,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.144637,0.092653
+684,Polygon,Lay Armacho,ET031108,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.844001,0.088186
+685,Polygon,Lay Gayint,ET030205,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.282345,0.125756
+686,Polygon,Legambo,ET030410,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.109603,0.083536
+687,Polygon,Lege Hida,ET042102,<Null>,<Null>,<Null>,East Bale,ET0421,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.415918,0.391649
+688,Polygon,Lege Tafo-Lege Dadi town,ET042004,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.214664,0.002664
+689,Polygon,Legehare,ET150105,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.043819,0.000059
+690,Polygon,Legehida,ET030420,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.391567,0.044096
+691,Polygon,Lehel-Yucub,ET050798,<Null>,<Null>,<Null>,Doolo,ET0507,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.093685,0.225806
+692,Polygon,Leka Dulecha,ET040212,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.56949,0.050709
+693,Polygon,Leku town,ET160022,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.066006,0.00022
+694,Polygon,Lemmo,ET070203,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.511724,0.029046
+695,Polygon,Leta Sibu,ET040197,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.073287,0.023923
+696,Polygon,Liban Jawi,ET040597,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.203557,0.026121
+697,Polygon,Liben,ET041407,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.08048,0.215784
+698,Polygon,Liben Chukala,ET040711,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.404131,0.057826
+699,Polygon,Libokemekem,ET030202,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.08657,0.082856
+700,Polygon,Lideta,ET140105,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.194455,0.000755
+701,Polygon,Limu (OR),ET040201,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.000832,0.090723
+702,Polygon,Limu Bilbilo,ET040818,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.124086,0.096717
+703,Polygon,Limu Kosa,ET040402,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.443333,0.10789
+704,Polygon,Limu Seka,ET040401,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.497971,0.137686
+705,Polygon,Loka Abaya,ET160037,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.424084,0.069347
+706,Polygon,Loma,ET071703,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.151253,0.03483
+707,Polygon,Lome (OR),ET040704,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.995065,0.057628
+708,Polygon,Lude Hitosa,ET040821,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.284815,0.044443
+709,Polygon,Madira,ET060204,<Null>,<Null>,<Null>,Metekel,ET0602,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.018937,0.085046
+710,Polygon,Maichew town,ET010409,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.159955,0.001349
+711,Polygon,Maji,ET071807,<Null>,<Null>,<Null>,Mirab Omo,ET0718,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.71183,0.380437
+712,Polygon,Makuey,ET120105,<Null>,<Null>,<Null>,Nuwer,ET1201,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.037878,0.033577
+713,Polygon,Malga,ET160012,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.822927,0.01466
+714,Polygon,Malie,ET070707,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.768244,0.11685
+715,Polygon,Malka Jabti /M.Jebdu),ET150104,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.212766,0.001812
+716,Polygon,Mana Sibu,ET040101,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.487674,0.148891
+717,Polygon,Mancho,ET040490,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.61161,0.062044
+718,Polygon,Maokomo Special,ET060508,<Null>,<Null>,<Null>,Mao Komo Special,ET0605,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.592816,0.261854
+719,Polygon,Mareka,ET071702,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.69333,0.014943
+720,Polygon,Mareko,ET070107,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.884405,0.024642
+721,Polygon,Mari Mansa,ET071708,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.62477,0.014843
+722,Polygon,Marsin,ET050586,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.663612,0.288303
+723,Polygon,Masha,ET070802,<Null>,<Null>,<Null>,Sheka,ET0708,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.754351,0.082624
+724,Polygon,Masha town,ET070805,<Null>,<Null>,<Null>,Sheka,ET0708,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.047792,0.000082
+725,Polygon,May Gaba,ET010509,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.167923,0.00123
+726,Polygon,May Kadra,ET010505,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.448619,0.094078
+727,Polygon,May Tsebri town,ET010116,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.102786,0.000363
+728,Polygon,Mecha,ET030704,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.256069,0.045278
+729,Polygon,Meda Welabu,ET041113,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,5.589965,0.716602
+730,Polygon,Megale,ET020204,<Null>,<Null>,<Null>,Kilbati /Zone2,ET0202,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.76705,0.093964
+731,Polygon,Mehal Sayint,ET030419,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.984134,0.049669
+732,Polygon,Mehale Meda town,ET030597,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.095336,0.000331
+733,Polygon,Mekan Eyesuse,ET030298,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.352768,0.002787
+734,Polygon,Mekane Selame,ET030498,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.180371,0.000801
+735,Polygon,Mekdela,ET030421,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.983312,0.123567
+736,Polygon,Mekelle,ET010701,<Null>,<Null>,<Null>,Mekelle,ET0107,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.471642,0.043708
+737,Polygon,Meket,ET030304,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.662104,0.110479
+738,Polygon,Mekhoni town,ET010412,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.082293,0.000324
+739,Polygon,Meko,ET041618,<Null>,<Null>,<Null>,Buno Bedele,ET0416,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.158928,0.046888
+740,Polygon,Melekoza,ET071501,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.512871,0.077081
+741,Polygon,Melka Balo,ET041012,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.127955,0.114306
+742,Polygon,Melka Soda,ET041518,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.29866,0.130612
+743,Polygon,Melo Gada,ET071509,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.108057,0.049737
+744,Polygon,Mena (Bale),ET041112,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.693543,0.399712
+745,Polygon,Mena (Jimma),ET040406,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.199856,0.04053
+746,Polygon,Mena Meketewa,ET030213,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.304612,0.061883
+747,Polygon,Mendi town,ET040198,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.22332,0.002813
+748,Polygon,Menge,ET060301,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.751408,0.08908
+749,Polygon,Mengesh,ET120308,<Null>,<Null>,<Null>,Majang,ET1203,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.024821,0.136969
+750,Polygon,Menit Goldiye,ET071802,<Null>,<Null>,<Null>,Mirab Omo,ET0718,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.858731,0.095076
+751,Polygon,Menit Shasha,ET071804,<Null>,<Null>,<Null>,Mirab Omo,ET0718,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.565007,0.130947
+752,Polygon,Menze Gera Midir,ET030505,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.979701,0.091552
+753,Polygon,Menze Keya Gabriel,ET030521,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.320114,0.044951
+754,Polygon,Menze Lalo Midir,ET030522,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.095739,0.031506
+755,Polygon,Menze Mama Midir,ET030509,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.508936,0.053688
+756,Polygon,Merawi town,ET030797,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.07971,0.000239
+757,Polygon,Merhabete,ET030502,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.745065,0.086202
+758,Polygon,Mersa town,ET030397,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.093991,0.000403
+759,Polygon,Merti,ET040801,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.429396,0.071629
+760,Polygon,Mesela,ET040904,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.089826,0.053771
+761,Polygon,Meskan,ET070106,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.286387,0.027163
+762,Polygon,Meta,ET041009,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.173667,0.038043
+763,Polygon,Meta Robi,ET040514,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.227748,0.037277
+764,Polygon,Meta Walkite,ET040594,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.94735,0.0417
+765,Polygon,Metehara town,ET040799,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.120991,0.000468
+766,Polygon,Metema,ET031213,<Null>,<Null>,<Null>,West Gondar,ET0312,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.774063,0.443497
+767,Polygon,Metema Yohanes town,ET031224,<Null>,<Null>,<Null>,West Gondar,ET0312,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.116572,0.000753
+768,Polygon,Metu town,ET040320,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.180641,0.001331
+769,Polygon,Metu Zuria,ET040310,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.086913,0.061601
+770,Polygon,Meyu Muleke,ET041018,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.653024,0.218013
+771,Polygon,Meyumuluka,ET050408,<Null>,<Null>,<Null>,Erer,ET0504,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.35433,0.054716
+772,Polygon,Michakel,ET030609,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.842763,0.060852
+773,Polygon,Mida Kegn,ET040504,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.323674,0.074923
+774,Polygon,Mida Woremo,ET030501,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.369445,0.069981
+775,Polygon,Midhaga Tola,ET041014,<Null>,<Null>,<Null>,East Hararge,ET0410,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.744203,0.12742
+776,Polygon,Midre Genet,ET031223,<Null>,<Null>,<Null>,West Gondar,ET0312,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.111959,0.000801
+777,Polygon,Mierab Azenet Berbere,ET072004,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.952651,0.012403
+778,Polygon,Mieso,ET040901,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.393086,0.124475
+779,Polygon,Miesso,ET050107,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.407485,0.071108
+780,Polygon,Mile,ET020105,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.676399,0.183845
+781,Polygon,Minjar Shenkora,ET030518,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.118018,0.141917
+782,Polygon,Mirab Abaya,ET071005,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.369088,0.065494
+783,Polygon,Mirab Armacho,ET031206,<Null>,<Null>,<Null>,West Gondar,ET0312,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.546057,0.124211
+784,Polygon,Mirab Badowach,ET070209,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.803943,0.012321
+785,Polygon,Mirab Soro,ET070217,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.777019,0.018523
+786,Polygon,Misha,ET070201,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.697682,0.014346
+787,Polygon,Misirak Silti,ET072013,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.672684,0.009366
+788,Polygon,Misrak Azenet Berbere,ET072007,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.684175,0.013771
+789,Polygon,Misrak Badawacho,ET070205,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.07329,0.01958
+790,Polygon,Misrak Meskan,ET070118,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.720484,0.008887
+791,Polygon,Mito,ET072012,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.072119,0.016873
+792,Polygon,Miyo,ET041216,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.171678,0.209541
+793,Polygon,Mizan Aman town,ET071107,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.310463,0.001995
+794,Polygon,Mizyiga,ET060405,<Null>,<Null>,<Null>,Kemashi,ET0604,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.001,0.140149
+795,Polygon,Mojan Wedera,ET030511,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.450144,0.051004
+796,Polygon,Mojo Town,ET040797,<Null>,<Null>,<Null>,East Shewa,ET0407,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.451682,0.003423
+797,Polygon,Moretna Jiru,ET030504,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.202353,0.054617
+798,Polygon,Mota Town,ET030694,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.1045,0.000546
+799,Polygon,Moyale (OR),ET041210,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.315282,0.218048
+800,Polygon,Moyale (SM),ET051103,<Null>,<Null>,<Null>,Daawa,ET0511,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.536053,0.113979
+801,Polygon,Mubarek,ET051187,<Null>,<Null>,<Null>,Daawa,ET0511,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.443072,0.604899
+802,Polygon,Muhur Na Aklil,ET070112,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.223207,0.038829
+803,Polygon,Mulo,ET042016,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.98321,0.028294
+804,Polygon,Munessa,ET040817,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.877255,0.087858
+805,Polygon,Mustahil,ET050606,<Null>,<Null>,<Null>,Shabelle,ET0506,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.023229,0.242372
+806,Polygon,Naeder,ET010209,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.160047,0.040949
+807,Polygon,Nefas Mewicha town,ET030215,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.119834,0.00064
+808,Polygon,Nefas Silk,ET140102,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.397234,0.004968
+809,Polygon,Negele town,ET041414,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.135754,0.000729
+810,Polygon,Nejo,ET040102,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.586501,0.053145
+811,Polygon,Nejo town,ET040199,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.201926,0.00222
+812,Polygon,Nekemte town,ET040297,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.436135,0.004791
+813,Polygon,Nenesebo,ET041709,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.23714,0.133983
+814,Polygon,Neqsege,ET010403,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.573205,0.014032
+815,Polygon,Nole Kaba,ET040115,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.765015,0.051884
+816,Polygon,Nono,ET040508,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.351322,0.056956
+817,Polygon,Nono Benja,ET040499,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.719774,0.068077
+818,Polygon,North Ari,ET070703,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.708892,0.022957
+819,Polygon,Nunu Kumba,ET040215,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.82568,0.050307
+820,Polygon,Nyngatom,ET070708,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.612602,0.229031
+821,Polygon,O'yida,ET071506,Oyida,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.641517,0.014278
+822,Polygon,Odo Shakiso,ET041405,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.399066,0.102501
+823,Polygon,Ofa,ET070607,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.053478,0.025395
+824,Polygon,Ofla,ET010408,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.629528,0.053046
+825,Polygon,Omo Beyam,ET040491,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.363767,0.065507
+826,Polygon,Omo Nada,ET040411,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.110829,0.064036
+827,Polygon,Pawe,ET060206,<Null>,<Null>,<Null>,Metekel,ET0602,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.591265,0.054144
+828,Polygon,Police Maret,ET150114,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.18454,0.000733
+829,Polygon,Qada Duma,ET051198,<Null>,<Null>,<Null>,Daawa,ET0511,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.869276,0.176847
+830,Polygon,Quara,ET031214,<Null>,<Null>,<Null>,West Gondar,ET0312,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.502276,0.701244
+831,Polygon,Quarit,ET030706,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.621348,0.04988
+832,Polygon,Qubi,ET050497,<Null>,<Null>,<Null>,Erer,ET0504,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.085659,0.040053
+833,Polygon,Rama,ET010214,<Null>,Adi Arebate,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.080626,0.040098
+834,Polygon,Rape,ET070509,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.6932,0.01367
+835,Polygon,Raso,ET050809,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.935759,0.024315
+836,Polygon,Raya Alamata,ET010407,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.770659,0.058669
+837,Polygon,Raya Azebo,ET010406,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.019139,0.090778
+838,Polygon,Raya Kobo,ET030302,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.360964,0.159633
+839,Polygon,Rayitu,ET042104,<Null>,<Null>,<Null>,East Bale,ET0421,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.326325,0.412226
+840,Polygon,Robe,ET040812,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.866231,0.109768
+841,Polygon,Robe Town,ET041119,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.309763,0.004497
+842,Polygon,Saba Boru,ET041412,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.454886,0.184718
+843,Polygon,Sabian,ET150103,<Null>,<Null>,<Null>,Dire Dawa urban,ET1501,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.195337,0.001625
+844,Polygon,Saesie,ET010303,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.579643,0.050782
+845,Polygon,Sagag,ET051005,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.169038,0.214009
+846,Polygon,Saharti,ET010601,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.381069,0.049678
+847,Polygon,Sahila,ET030806,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.971728,0.095397
+848,Polygon,Salahad,ET051004,<Null>,<Null>,<Null>,Nogob,ET0510,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.521512,0.012176
+849,Polygon,Salamago,ET070701,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.416247,0.373386
+850,Polygon,Sale Nono,ET040313,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.96052,0.140081
+851,Polygon,Samera Logiya town,ET020198,<Null>,<Null>,<Null>,Awsi /Zone 1,ET0201,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.387761,0.006287
+852,Polygon,Samre,ET010606,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.913622,0.092061
+853,Polygon,Samurobi,ET020502,<Null>,Samurobi Gelealo,<Null>,Hari /Zone 5,ET0205,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.278896,0.119109
+854,Polygon,Sankura,ET072006,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.987927,0.02271
+855,Polygon,Sasiga,ET040211,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.498352,0.064448
+856,Polygon,Sawla town,ET071507,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.180084,0.001367
+857,Polygon,Sayint,ET030411,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.858757,0.119015
+858,Polygon,Saylem,ET070901,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.436289,0.064056
+859,Polygon,Sayo,ET041805,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.894858,0.092221
+860,Polygon,Sayo Nole,ET040118,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.690588,0.050397
+861,Polygon,Sebeta Hawas,ET042006,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.910061,0.061653
+862,Polygon,Sebeta town,ET042009,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.599852,0.010718
+863,Polygon,Sedae,ET030619,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.008353,0.048248
+864,Polygon,Sedal,ET060402,<Null>,<Null>,<Null>,Kemashi,ET0604,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.078137,0.202862
+865,Polygon,Sede Muja,ET030214,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.393744,0.075098
+866,Polygon,Seden Sodo,ET041310,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.329547,0.045955
+867,Polygon,Sedi Chenka,ET041812,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.924245,0.024544
+868,Polygon,Segen Zuria,ET071302,<Null>,<Null>,<Null>,Konso,ET0713,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.998795,0.030573
+869,Polygon,Seka Chekorsa,ET040409,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.004325,0.067543
+870,Polygon,Sekela,ET030705,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.942158,0.063693
+871,Polygon,Sekoru,ET040403,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.30267,0.075765
+872,Polygon,Sekota,ET030802,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.574325,0.103975
+873,Polygon,Sekota town,ET030807,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.528326,0.008396
+874,Polygon,Selamber town,ET071003,<Null>,<Null>,<Null>,Gamo,ET0710,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.076852,0.00028
+875,Polygon,Selekleka,ET010109,<Null>,Laelay Koraro,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.384169,0.033442
+876,Polygon,Selewa,ET010401,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.781374,0.022952
+877,Polygon,Semada,ET030207,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.712917,0.110945
+878,Polygon,Semen Achefer,ET030701,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.136067,0.095519
+879,Polygon,Semen Bench,ET071105,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.904771,0.022051
+880,Polygon,Senan,ET030616,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.191184,0.036063
+881,Polygon,Sendafa town,ET042018,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.087007,0.000345
+882,Polygon,Seru,ET040811,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.622135,0.144563
+883,Polygon,Setema,ET040413,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.898195,0.084651
+884,Polygon,Setit Humera,ET010504,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.637361,0.008697
+885,Polygon,Seweyna,ET042105,<Null>,<Null>,<Null>,East Bale,ET0421,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,5.434212,0.75325
+886,Polygon,Seyemti Adyabo,ET010110,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.412737,0.059442
+887,Polygon,Shabeeley,ET050204,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.077785,0.132796
+888,Polygon,Shafamo,ET160028,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.844787,0.009485
+889,Polygon,Shakiso town,ET041499,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.16588,0.001274
+890,Polygon,Shala,ET041702,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.491169,0.067895
+891,Polygon,Shambu town,ET041902,<Null>,<Null>,<Null>,Horo Gudru Wellega,ET0419,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.097678,0.000423
+892,Polygon,Shanan Kolu,ET040893,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.377115,0.048201
+893,Polygon,Shashemene town,ET041711,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.116402,0.00088
+894,Polygon,Shashemene Zuria,ET041712,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.918232,0.057507
+895,Polygon,Shashogo,ET070204,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.944164,0.029149
+896,Polygon,Shay Bench,ET071104,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.575944,0.045298
+897,Polygon,Shaygosh,ET050501,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.496944,0.141816
+898,Polygon,Shebe Dino,ET160001,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.936076,0.01355
+899,Polygon,Shebe Sambo,ET040414,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.486309,0.066591
+900,Polygon,Shebel Bernta,ET030614,<Null>,<Null>,<Null>,East Gojam,ET0306,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.498532,0.074329
+901,Polygon,Sheko,ET071101,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.278986,0.040039
+902,Polygon,Shenkor,ET130102,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.232417,0.002234
+903,Polygon,Sheraro town,ET010107,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.436191,0.006063
+904,Polygon,Sherkole,ET060304,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.230441,0.153718
+905,Polygon,Shilabo,ET050503,<Null>,<Null>,<Null>,Korahe,ET0505,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.062452,0.95299
+906,Polygon,Shinile,ET050103,<Null>,<Null>,<Null>,Siti,ET0501,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.344145,0.294907
+907,Polygon,Shinshincho town,ET070310,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.118512,0.000487
+908,Polygon,Shirka,ET040814,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.910904,0.095662
+909,Polygon,Shisho Ande,ET070913,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.288557,0.045558
+910,Polygon,Shoa Robit,ET030595,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.166186,0.000819
+911,Polygon,Shone Town,ET070212,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.113851,0.000669
+912,Polygon,Sibu Sire,ET040209,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.260816,0.086104
+913,Polygon,Sigmo,ET040412,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.465216,0.073058
+914,Polygon,Silti,ET072002,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.369333,0.027648
+915,Polygon,Sinana,ET041109,<Null>,<Null>,<Null>,Bale,ET0411,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.461745,0.08458
+916,Polygon,Siraro,ET041701,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.103714,0.051682
+917,Polygon,Siraro Badawacho,ET070216,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.328985,0.004128
+918,Polygon,Sire,ET040820,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.229444,0.043383
+919,Polygon,Siya Debirna Wayu,ET030523,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.339288,0.038214
+920,Polygon,Size town,ET071108,<Null>,<Null>,<Null>,Bench Sheko,ET0711,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.118677,0.000528
+921,Polygon,Sodo,ET070105,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.235302,0.045435
+922,Polygon,Sodo Daci,ET041314,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.121747,0.035285
+923,Polygon,Sodo Town,ET070613,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.225918,0.002096
+924,Polygon,Sodo Zuria,ET070605,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.412441,0.029967
+925,Polygon,Sofi,ET130101,<Null>,<Null>,<Null>,Harari,ET1301,Harari,ET13,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.488664,0.010816
+926,Polygon,Soro,ET070206,<Null>,<Null>,<Null>,Hadiya,ET0702,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.53703,0.040904
+927,Polygon,South Ari,ET070702,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.754857,0.13376
+928,Polygon,Sude,ET040808,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.919684,0.095809
+929,Polygon,Sululta,ET042013,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.358653,0.093874
+930,Polygon,Sululta town,ET042005,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.112184,0.000696
+931,Polygon,Surma,ET071806,<Null>,<Null>,<Null>,Mirab Omo,ET0718,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.788562,0.405116
+932,Polygon,Suro Berguda,ET041594,<Null>,<Null>,<Null>,West Guji,ET0415,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.391437,0.064049
+933,Polygon,Tach Armacho,ET031120,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.951301,0.225806
+934,Polygon,Tach Gayint,ET030206,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.480406,0.068452
+935,Polygon,Tahtay Adiyabo,ET010101,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.70388,0.243819
+936,Polygon,Tahtay Koraro,ET010104,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.386193,0.072065
+937,Polygon,Tahtay Mayechew,ET010206,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.176211,0.030461
+938,Polygon,Takusa,ET031121,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.574001,0.161811
+939,Polygon,Tanqua Melashe,ET010222,<Null>,<Null>,<Null>,Central,ET0102,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.055514,0.031012
+940,Polygon,Tarema Ber,ET030510,<Null>,<Null>,<Null>,North Shewa (AM),ET0305,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.787883,0.046621
+941,Polygon,Tebela town,ET070616,<Null>,<Null>,<Null>,Wolayita,ET0706,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.073491,0.00028
+942,Polygon,Telalek,ET020501,<Null>,<Null>,<Null>,Hari /Zone 5,ET0205,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.500464,0.0914
+943,Polygon,Telemt,ET030119,<Null>,<Null>,<Null>,North Gondar,ET0301,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.190962,0.064776
+944,Polygon,Teltale,ET041212,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.204915,0.637195
+945,Polygon,Tembaro,ET070301,<Null>,<Null>,<Null>,Kembata Tibaro,ET0703,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.025184,0.027811
+946,Polygon,Tena,ET040813,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.959091,0.036788
+947,Polygon,Tenta,ET030402,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.963109,0.109057
+948,Polygon,Tepi,ET070804,<Null>,<Null>,<Null>,Sheka,ET0708,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.148733,0.001123
+949,Polygon,Tercha town,ET071711,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.106388,0.000415
+950,Polygon,Tercha Zuriya,ET071707,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.626495,0.008033
+951,Polygon,Teru,ET020403,<Null>,<Null>,<Null>,Fanti /Zone 4,ET0204,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.272297,0.481956
+952,Polygon,Teticha,ET160026,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.842972,0.01039
+953,Polygon,Thehulederie,ET030405,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.122893,0.0366
+954,Polygon,Tikur Enchini,ET040509,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.208366,0.035959
+955,Polygon,Tiro Afeta,ET040404,<Null>,<Null>,<Null>,Jimma,ET0404,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.564333,0.060994
+956,Polygon,Tiyo,ET040816,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.693946,0.049609
+957,Polygon,Tocha,ET071701,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.292012,0.043317
+958,Polygon,Toke Kutaye,ET040517,<Null>,<Null>,<Null>,West Shewa,ET0405,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.395277,0.045232
+959,Polygon,Tole,ET041308,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.618665,0.03458
+960,Polygon,Tora town,ET072009,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.232929,0.002088
+961,Polygon,Tsaeda Emba,ET010314,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.637615,0.04258
+962,Polygon,Tsagbeji,ET030808,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.950179,0.036961
+963,Polygon,Tsegede (AM),ET031107,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.276388,0.156778
+964,Polygon,Tsegede (TG),ET010503,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.352505,0.18237
+965,Polygon,Tselemti,ET010106,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.548352,0.161034
+966,Polygon,Tsimbla,ET010113,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.615018,0.083902
+967,Polygon,Tuliguled,ET050283,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.191225,0.03567
+968,Polygon,Tullo,ET070906,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.983056,0.039439
+969,Polygon,Tulo (OR),ET040903,<Null>,<Null>,<Null>,West Hararge,ET0409,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.984271,0.035353
+970,Polygon,Uba Debre Tsehay,ET071504,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.38901,0.061582
+971,Polygon,Undulu,ET060308,<Null>,<Null>,<Null>,Asosa,ET0603,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.901797,0.038136
+972,Polygon,Uraga,ET041401,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.288716,0.050045
+973,Polygon,Wacha,ET070914,<Null>,<Null>,<Null>,Kefa,ET0709,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.128409,0.000521
+974,Polygon,Wachile,ET041298,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.906931,0.412839
+975,Polygon,Wadera,ET041404,<Null>,<Null>,<Null>,Guji,ET0414,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.642362,0.077846
+976,Polygon,Wadla,ET030305,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.715872,0.070966
+977,Polygon,Wahil,ET150207,<Null>,<Null>,<Null>,Dire Dawa rural,ET1502,Dire Dawa,ET15,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.77883,0.015083
+978,Polygon,Wajale town,ET050295,<Null>,<Null>,<Null>,Fafan,ET0502,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.400561,0.009481
+979,Polygon,Wajirat,ET010608,<Null>,<Null>,<Null>,South Eastern,ET0106,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.378565,0.073191
+980,Polygon,Waliso,ET041303,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.596264,0.060813
+981,Polygon,Wama Hagalo,ET040216,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.165378,0.051008
+982,Polygon,Wangey,ET050499,<Null>,<Null>,<Null>,Erer,ET0504,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.069518,0.041068
+983,Polygon,Wantawo,ET120104,<Null>,<Null>,<Null>,Nuwer,ET1201,Gambela,ET12,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.357032,0.077292
+984,Polygon,Wara Jarso,ET040601,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.862798,0.096893
+985,Polygon,Warder,ET050704,<Null>,<Null>,<Null>,Doolo,ET0507,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,5.310874,0.85636
+986,Polygon,Wayu Tuka,ET040206,<Null>,<Null>,<Null>,East Wellega,ET0402,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.447068,0.033216
+987,Polygon,Wegde,ET030416,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.638246,0.092653
+988,Polygon,Wegera,ET031109,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.067709,0.103104
+989,Polygon,Welkait,ET010502,<Null>,<Null>,<Null>,Western,ET0105,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.895981,0.2056
+990,Polygon,Welkite town,ET070114,<Null>,<Null>,<Null>,Guraghe,ET0701,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.143651,0.000845
+991,Polygon,Welmera,ET042014,<Null>,<Null>,<Null>,Finfine Special,ET0420,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.915316,0.053989
+992,Polygon,Wemberma,ET030711,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.796642,0.113872
+993,Polygon,Wenago,ET070501,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.523005,0.011308
+994,Polygon,Wenbera,ET060203,<Null>,<Null>,<Null>,Metekel,ET0602,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,4.061878,0.59109
+995,Polygon,Wenchi,ET041302,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.16889,0.038255
+996,Polygon,Wera,ET071402,<Null>,<Null>,<Null>,Halaba,ET0714,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.13412,0.026096
+997,Polygon,Wera Djo,ET071404,<Null>,<Null>,<Null>,Halaba,ET0714,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.398363,0.041052
+998,Polygon,Were Ilu,ET030415,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.95675,0.061001
+999,Polygon,Wereilu town,ET030423,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.069553,0.000277
+1000,Polygon,West Belesa,ET031116,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.224672,0.10464
+1001,Polygon,West Dembiya,ET031125,<Null>,<Null>,<Null>,Central Gondar,ET0311,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.05867,0.067553
+1002,Polygon,West Esite,ET030211,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.227237,0.06709
+1003,Polygon,West Imi,ET050805,<Null>,<Null>,<Null>,Afder,ET0508,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.729089,0.321323
+1004,Polygon,Woldiya town,ET030309,<Null>,<Null>,<Null>,North Wello,ET0303,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.417927,0.006546
+1005,Polygon,Woliso town,ET041311,<Null>,<Null>,<Null>,South West Shewa,ET0413,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.180574,0.001062
+1006,Polygon,Wondo,ET041797,<Null>,<Null>,<Null>,West Arsi,ET0417,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.708436,0.006164
+1007,Polygon,Wondo-Genet,ET160019,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.763011,0.016782
+1008,Polygon,Wondo-Genet town,ET160036,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.034438,0.000059
+1009,Polygon,Wonosho,ET160013,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.647167,0.011782
+1010,Polygon,Worabe town,ET072010,<Null>,<Null>,<Null>,Siltie,ET0720,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.534832,0.010353
+1011,Polygon,Worebabu,ET030422,<Null>,<Null>,<Null>,South Wello,ET0304,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.303608,0.062218
+1012,Polygon,Woreta town,ET030293,<Null>,<Null>,<Null>,South Gondar,ET0302,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.100048,0.000485
+1013,Polygon,Wub Ari,ET070711,<Null>,<Null>,<Null>,South Omo,ET0707,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.730658,0.012091
+1014,Polygon,Wuchale,ET040608,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.361807,0.073587
+1015,Polygon,Wukro town,ET010309,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.214633,0.001705
+1016,Polygon,Yabelo,ET041207,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.834473,0.216954
+1017,Polygon,Yabelo town,ET041296,<Null>,<Null>,<Null>,Borena,ET0412,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.183216,0.001309
+1018,Polygon,Yahob,ET050498,<Null>,<Null>,<Null>,Erer,ET0504,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.641489,0.139877
+1019,Polygon,Yalo,ET020404,<Null>,<Null>,<Null>,Fanti /Zone 4,ET0204,Afar,ET02,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.185442,0.063532
+1020,Polygon,Yama Logi Welel,ET041802,<Null>,<Null>,<Null>,Kelem Wellega,ET0418,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.300005,0.046575
+1021,Polygon,Yaya Gulele,ET040614,<Null>,<Null>,<Null>,North Shewa (OR),ET0406,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.041381,0.028071
+1022,Polygon,Yayu,ET040309,<Null>,<Null>,<Null>,Ilu Aba Bora,ET0403,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.349392,0.074841
+1023,Polygon,Yeka,ET140107,<Null>,<Null>,<Null>,Region 14,ET1401,Addis Ababa,ET14,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.439164,0.007024
+1024,Polygon,Yeki,ET070803,<Null>,<Null>,<Null>,Sheka,ET0708,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.674851,0.046039
+1025,Polygon,Yem SP Woreda,ET072401,<Null>,<Null>,<Null>,Yem Special,ET0724,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.270324,0.062646
+1026,Polygon,Yilmana Densa,ET030703,<Null>,<Null>,<Null>,West Gojam,ET0307,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.794973,0.076401
+1027,Polygon,Yirgachefe,ET070502,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.151418,0.020056
+1028,Polygon,Yirgachefe town,ET070512,<Null>,<Null>,<Null>,Gedeo,ET0705,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.063076,0.00018
+1029,Polygon,Yirgalem town,ET160020,<Null>,<Null>,<Null>,Sidama,ET1600,Sidama,ET16,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.225496,0.001118
+1030,Polygon,Yocale,ET050382,<Null>,<Null>,<Null>,Jarar,ET0503,Somali,ET05,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.699443,0.123968
+1031,Polygon,Yubdo,ET040112,<Null>,<Null>,<Null>,West Wellega,ET0401,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.028161,0.02532
+1032,Polygon,Zabagazo,ET071710,<Null>,<Null>,<Null>,Dawuro,ET0717,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.122946,0.041985
+1033,Polygon,Zala,ET071503,<Null>,<Null>,<Null>,Gofa,ET0715,SNNP,ET07,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.302965,0.059673
+1034,Polygon,Zala Anbesa town,ET010318,<Null>,<Null>,<Null>,Eastern,ET0103,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.068863,0.00026
+1035,Polygon,Zana,ET010103,<Null>,<Null>,<Null>,North Western,ET0101,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.153553,0.047754
+1036,Polygon,Zata,ET010413,<Null>,<Null>,<Null>,Southern,ET0104,Tigray,ET01,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.945977,0.034931
+1037,Polygon,Zayi,ET060401,<Null>,<Null>,<Null>,Kemashi,ET0604,Benishangul Gumz,ET06,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,3.959318,0.216752
+1038,Polygon,Zequala,ET030801,<Null>,<Null>,<Null>,Wag Hamra,ET0308,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,2.438204,0.143826
+1039,Polygon,Zigem,ET030997,<Null>,<Null>,<Null>,Awi,ET0309,Amhara,ET03,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,0.065201,0.000231
+1040,Polygon,Ziway Dugda,ET040806,<Null>,<Null>,<Null>,Arsi,ET0408,Oromia,ET04,Ethiopia,ET,8/19/2019,10/8/2020,<Null>,1.879425,0.083011
