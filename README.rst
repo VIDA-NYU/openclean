@@ -42,10 +42,10 @@ Data Provenance
 openclean comes with a mini-version control engine that allows users to maintain versions of their datasets and at any point commit, checkout or rollback changes. Not only this, users can register custom functions inside the openclean engine and apply them effortlessly across different datasets/notebooks.
 
 
-Installation
-============
+Installation (coming soon)
+==========================
 
-Install **openclean** from GitHub using ``pip`` with:
+Install **openclean** from PyPI using ``pip`` with:
 
 .. code-block:: bash
 
