@@ -6,7 +6,7 @@ openclean - Data Cleaning for Python
     :target: https://github.com/VIDA-NYU/openclean/blob/master/LICENSE
 
 
-.. figure:: https://github.com/VIDA-NYU/openclean-core/blob/master/docs/graphics/logo.png
+.. figure:: https://github.com/VIDA-NYU/openclean/blob/master/docs/graphics/logo.png
     :align: center
     :alt: openclean Logo
 
