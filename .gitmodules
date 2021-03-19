@@ -4,3 +4,6 @@
 [submodule "openclean-metanome"]
 	path = openclean-metanome
 	url = https://github.com/VIDA-NYU/openclean-metanome
+[submodule "openclean-notebook"]
+	path = openclean-notebook
+	url = https://github.com/VIDA-NYU/openclean-notebook

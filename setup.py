@@ -17,12 +17,14 @@ install_requires = [
 docker_requires = ['docker']
 
 metanome_requires = ['openclean-metanome==0.1.0']
+notebook_requires = ['openclean-notebook==0.1.0']
 
 extras_require = {
     'docker': docker_requires,
     'jupyter': ['jupyter'],
     'metanome': metanome_requires,
-    'full': docker_requires + metanome_requires
+    'notebook': notebook_requires,
+    'full': docker_requires + metanome_requires + notebook_requires
 }
 
 
@@ -37,7 +39,7 @@ setup(
     description='Library for data cleaning and data profiling',
     long_description=readme,
     long_description_content_type='text/x-rst',
-    keywords='data cleaning data profiling',
+    keywords='data cleaning, data profiling',
     url='https://github.com/VIDA-NYU/openclean',
     author='New York University',
     author_email='heiko.muller@gmail.com',
