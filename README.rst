@@ -52,6 +52,13 @@ Install **openclean** from GitHub using ``pip`` with:
     pip install openclean
 
 
+If you want to run the `example notebooks in the openclean repository <https://github.com/VIDA-NYU/openclean/tree/master/examples/notebooks>`_ add the ``full`` and ``jupyter`` options when installing openclean.
+
+.. code-block:: bash
+
+    pip install openclean[full,jupyter]
+
+
 Usage
 =====
 

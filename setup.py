@@ -11,13 +11,13 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    'openclean-core==0.1.1'
+    'openclean-core==0.2.0'
 ]
 
 docker_requires = ['docker']
 
 metanome_requires = ['openclean-metanome==0.1.0']
-notebook_requires = ['openclean-notebook==0.1.0']
+notebook_requires = ['openclean-notebook==0.1.2']
 
 extras_require = {
     'docker': docker_requires,
