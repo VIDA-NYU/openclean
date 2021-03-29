@@ -11,20 +11,22 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    'openclean-core==0.2.0'
+    'openclean-core==0.3.0'
 ]
 
 docker_requires = ['docker']
 
+geo_requires = ['openclean-geo==0.1.0']
 metanome_requires = ['openclean-metanome==0.1.0']
 notebook_requires = ['openclean-notebook==0.1.2']
 
 extras_require = {
     'docker': docker_requires,
     'jupyter': ['jupyter'],
+    'geo': geo_requires,
     'metanome': metanome_requires,
     'notebook': notebook_requires,
-    'full': docker_requires + metanome_requires + notebook_requires
+    'full': docker_requires + geo_requires + metanome_requires + notebook_requires
 }
 
 
