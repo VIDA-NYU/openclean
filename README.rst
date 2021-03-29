@@ -96,9 +96,9 @@ After activating your virtual environment, follow these steps to setup and run t
     cd openclean
     # Install openclean and dependencies required for the demo
     pip install .[demo]
-    # Run Jupyter (the navigate to the notebooks in foler `examples/notebooks`)
+    # Run Jupyter (the navigate to the notebooks in folder `examples/notebooks`)
     jupyter notebook
-    
+
 
 Documentation
 =============
