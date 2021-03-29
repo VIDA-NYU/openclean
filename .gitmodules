@@ -7,3 +7,6 @@
 [submodule "openclean-notebook"]
 	path = openclean-notebook
 	url = https://github.com/VIDA-NYU/openclean-notebook
+[submodule "openclean-geo"]
+	path = openclean-geo
+	url = https://github.com/VIDA-NYU/openclean-geo
