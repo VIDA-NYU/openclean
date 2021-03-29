@@ -51,6 +51,7 @@ Install **openclean** from the GitHub repository using ``pip`` with:
 
     pip install git+git://github.com/VIDA-NYU/openclean.git
 
+**Note**: See the *Demo* section below for instructions to run the `example notebooks <https://github.com/VIDA-NYU/openclean/tree/master/examples/notebooks>`_ in this repository.
 
 Usage
 =====
@@ -62,6 +63,42 @@ We include several example notebooks in this repository that demonstrate possibl
 
 Other examples along with the datasets are located in `the examples' folder <https://github.com/VIDA-NYU/openclean-core/tree/master/examples/notebooks>`_
 
+
+Demo
+====
+
+Use the following steps to setup and run the `example notebooks <https://github.com/VIDA-NYU/openclean/tree/master/examples/notebooks>`_ in this repository. We recommend using a virtual environment. Below are two examples for setting up a virtual environment
+
+.. code-block:: bash
+
+    # -- Create a new virtual environment
+    virtualenv venv
+    # -- Activate the virtual environment
+    source venv/bin/activate
+
+If you are using the Python distribution from `Anaconda <https://www.anaconda.com/>`_, you can setup an environment like this:
+
+.. code-block:: bash
+
+    # -- Create a new virtual environment
+    conda create -n openclean pip
+    # -- Activate the virtual environment
+    conda activate openclean
+
+
+After activating your virtual environment, follow these steps to setup and run the notebook examples :
+
+.. code-block:: bash
+
+    # Clone the openclean repository into your current working directory.
+    git clone git@github.com:VIDA-NYU/openclean.git
+    # Change working directory to the cloned repository.
+    cd openclean
+    # Install openclean and dependencies required for the demo
+    pip install .[demo]
+    # Run Jupyter (the navigate to the notebooks in foler `examples/notebooks`)
+    jupyter notebook
+    
 
 Documentation
 =============

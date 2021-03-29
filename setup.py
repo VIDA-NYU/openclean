@@ -19,14 +19,16 @@ docker_requires = ['docker']
 geo_requires = ['openclean-geo==0.1.0']
 metanome_requires = ['openclean-metanome==0.1.0']
 notebook_requires = ['openclean-notebook==0.1.2']
+openclean_extension = geo_requires + metanome_requires + notebook_requires
 
 extras_require = {
+    'demo': openclean_extension + ['jupyter', 'humanfriendly', 'ethiopian_date'],
     'docker': docker_requires,
     'jupyter': ['jupyter'],
     'geo': geo_requires,
     'metanome': metanome_requires,
     'notebook': notebook_requires,
-    'full': docker_requires + geo_requires + metanome_requires + notebook_requires
+    'full': docker_requires + openclean_extension
 }
 
 
