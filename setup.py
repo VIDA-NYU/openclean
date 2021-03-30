@@ -11,14 +11,14 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    'openclean-core==0.3.0'
+    'openclean-core==0.3.1'
 ]
 
 docker_requires = ['docker']
 
 geo_requires = ['openclean-geo==0.1.0']
 metanome_requires = ['openclean-metanome==0.1.0']
-notebook_requires = ['openclean-notebook==0.1.2']
+notebook_requires = ['openclean-notebook==0.1.3']
 openclean_extension = geo_requires + metanome_requires + notebook_requires
 
 extras_require = {
