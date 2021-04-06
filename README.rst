@@ -99,6 +99,10 @@ After activating your virtual environment, follow these steps to setup and run t
     # Run Jupyter (the navigate to the notebooks in folder `examples/notebooks`)
     jupyter notebook
 
+Demo Video
+==========
+
+Want to see **openclean** in action? Check out our video demo: https://youtu.be/HNmNB6YMgHk
 
 Documentation
 =============
