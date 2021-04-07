@@ -11,7 +11,7 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    'openclean-core==0.3.1'
+    'openclean-core==0.3.2'
 ]
 
 docker_requires = ['docker']
@@ -22,7 +22,7 @@ notebook_requires = ['openclean-notebook==0.1.3']
 openclean_extension = geo_requires + metanome_requires + notebook_requires
 
 extras_require = {
-    'demo': openclean_extension + ['jupyter', 'humanfriendly', 'ethiopian_date'],
+    'demo': openclean_extension + ['jupyter', 'humanfriendly', 'ethiopian_date', 'seaborn'],
     'docker': docker_requires,
     'jupyter': ['jupyter'],
     'geo': geo_requires,
