@@ -1,4 +1,4 @@
-openclean-core==0.3.1
+openclean-core==0.3.2
 openclean-geo==0.1.0
 openclean-metanome==0.1.0
 openclean-notebook==0.1.3
