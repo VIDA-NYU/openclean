@@ -10,3 +10,6 @@
 [submodule "openclean-geo"]
 	path = openclean-geo
 	url = https://github.com/VIDA-NYU/openclean-geo
+[submodule "openclean-pattern"]
+	path = openclean-pattern
+	url = https://github.com/VIDA-NYU/openclean-pattern/
