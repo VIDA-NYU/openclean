@@ -27,7 +27,7 @@ The dataset that is used for all the examples is the [NYC Parking Violations Iss
 
 ### Datasets and Streams
 
-The dataset is available for download via the [Socrata Open Data API (SODA)](https://dev.socrata.com/). To download the dataset, **openclean** includes a SODA wrapper that provides access to all datasets available via the API using their unique identifier. The parking violations dataset, for example, has the unique identifier `jt7v-77mi`. The identifier is part of the dataste Url https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2014/jt7v-77mi. The following code downloads the dataset in tab-delimited CSV format and stores it in a local file called `jt7v-77mi.tsv.gz`.
+The dataset is available for download via the [Socrata Open Data API (SODA)](https://dev.socrata.com/). To download the dataset, **openclean** includes a SODA wrapper that provides access to all datasets available via the API using their unique identifier. The parking violations dataset, for example, has the unique identifier `jt7v-77mi`. The identifier is part of the dataset Url https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2014/jt7v-77mi. The following code downloads the dataset in tab-delimited CSV format and stores it in a local file called `jt7v-77mi.tsv.gz`.
 
 ```python
 import gzip
@@ -54,7 +54,7 @@ ds.head()
 
 ### Data Profiling
 
-Data profiling is an important first step in many data analytics efforts. Profiling helps users to gain an understanding of the data properties and to uncover data quality flaws. **openclean** supports a variety of different data profiling operators that can also be used to generate metadata about the data at hand.
+Data profiling is an important first step in many data analytic efforts. Profiling helps users to gain an understanding of the data properties and to uncover data quality flaws. **openclean** supports a variety of different data profiling operators that can also be used to generate metadata about the data at hand.
 
 We can use the default column profiler to compute basic statistics such as the number of distinct values, missing values, etc. for each of the columns in our dataset. In the example shown below we use a random sample of 1000 rows for profiling. The result is a list of profiling results (dictionaries). A summary of the results can then be accessed as a data frame using the `stats()` method.
 
@@ -84,7 +84,8 @@ for rank, val in  enumerate(states.most_common()):
     freq = '{:,}'.format(freq)
     print('{:<3} {} {:>9}'.format('{}.'.format(rank +  1), st, freq))
 ```
-```
+
+```console
 1.  NY  7,029,804
 2.  NJ    878,677
 3.  PA    225,760
@@ -98,7 +99,7 @@ for rank, val in  enumerate(states.most_common()):
 
 One solution to identify the invalid values is to use a curated list of license plate state codes. Reference data is an important tool for data cleaning and **openclean** supports the use of different reference datasets. For this purpose, we created the open-source library [refdata](https://github.com/VIDA-NYU/reference-data-repository) to provide access to reference datasets available on the Web. Individual datasets are hosted by data maintainers on the platform of their choice. Users can download copies of the datasets for local access.
 
-The [official list of license plate states](http://www.nyc.gov/html/dof/html/pdf/faq/stars_codes.pdf) has 67 values (including the 50 U.S. states, provinces and territories in Canada, Mexico, U.S. government vehicles). In the following we show how to use openclean's reference data repository to help identify the two values in the *Registration State* column that do not occur in the reference list. We first load the dataset containing the official list of registration state codes (the `auto_download` flag ensures that the dataset will be downloaded if it does not exist in the local repository). You can use `refdata.repository().find()` to get a full list of available datasets. After loading the dataset we get a list of distinct values in the code column. You can use `df()` if you want to get a data frame containing the whole dataset, instead. The result shows that *99* and *PR* are the two values that do not occur in the reference dataset.
+The [official list of license plate states](http://www.nyc.gov/html/dof/html/pdf/faq/stars_codes.pdf) has 67 values (including the 50 U.S. states, provinces and territories in Canada, Mexico, U.S. government vehicles). In the following we show how to use **openclean**'s reference data repository to help identify the two values in the *Registration State* column that do not occur in the reference list. We first load the dataset containing the official list of registration state codes (the `auto_download` flag ensures that the dataset will be downloaded if it does not exist in the local repository). You can use `refdata.repository().find()` to get a full list of available datasets. After loading the dataset we get a list of distinct values in the code column. You can use `df()` if you want to get a data frame containing the whole dataset, instead. The result shows that *99* and *PR* are the two values that do not occur in the reference dataset.
 
 ```python
 from openclean.data.refdata import RefStore
@@ -113,7 +114,8 @@ for rank, val in  enumerate(states.most_common()):
         freq = '{:,}'.format(freq)
         print('{:<3} {} {:>9}'.format('{}.'.format(rank +  1), st, freq))
 ```
-```
+
+```console
 11. 99     38,080
 60. PR        211
 ```
@@ -143,7 +145,7 @@ clusters = KeyCollision(func=Fingerprint()).clusters(street_names)
 
 Below we show one of the clusters that is included in the generated set of key collision clusters. The numbers in brackets denote the frequency of the values in the dataset.
 
-```
+```console
 W 125 ST (x 3365)
 W 125    ST (x 1)
 W. 125 ST. (x 1)
@@ -171,7 +173,8 @@ from openclean_geo.address.usstreet import USStreetNameKey
 
 clusters = KeyCollision(func=USStreetNameKey()).clusters(street_names)
 ```
-```
+
+```console
 W 125 ST (x 3365)
 W 125    ST (x 1)
 W 125 STREET (x 451)
@@ -206,7 +209,7 @@ groups = fd_violations(df, lhs=['Plate ID', 'State'], rhs='Vehicle Color')
 
 Below are three examples for groups of tuples that violate the functional dependency. In two cases it appears as if (*WHITE*, *WH*) and (*BROWN*, *BR*) are representations for the same color, i.e., giving us an indication for a possible mapping to standardize vehicle colors. The third example does show the limitations of this approach with *BLUE* and *BROWN* unlikely being representations of the same color.
 
-```
+```console
 Plate ID State Vehicle Color
 85134MC  NY    WHITE
 85134MC  NY    WH
@@ -237,7 +240,7 @@ Instead of relying on a dedicated GUI, **openclean** can be used in many differe
 
 
 
-To leverage the spreadsheet GUI, the datasets that are being manipulated need to be under the control of a [openclean.engine.base.OpencleanEngine](https://github.com/VIDA-NYU/openclean-core/blob/master/openclean/engine/base.py) object. This object coordinates the communication between the Javascript front-end and the openclean backend. It also maintains provenance information about all the applied operators and allows users to view previous snapshots of the dataset and to rollback operations.
+To leverage the spreadsheet GUI, the datasets that are being manipulated need to be under the control of a [openclean.engine.base.OpencleanEngine](https://github.com/VIDA-NYU/openclean-core/blob/master/openclean/engine/base.py) object. This object coordinates the communication between the Javascript front-end and the **openclean** backend. It also maintains provenance information about all the applied operators and allows users to view previous snapshots of the dataset and to rollback operations.
 
 In this example, we take a look at the times of the day when one is more likely to receive a parking ticket during street cleaning ([violation code 21](https://www1.nyc.gov/site/finance/vehicles/services-violation-codes.page)) and whether there are differences between the five boroughs of New York City. We start by selecting the data of interest and then load the data frame into a database engine object that materializes all dataset snapshots as files in a folder on the local file system. Each dataset in the database is identified by a unique name (*street_cleaning_violations* in our example).
 
@@ -287,20 +290,23 @@ df = db.checkout('street_cleaning_violations', commit=True)
 To conclude our example, we demonstrate how existing Python visualization packages (e.g., [seaborn](https://seaborn.pydata.org/) in this case) can be used to create a plot that shows how likely it is during different times of the day to receive a parking ticket (violation code 21) in each of the five boroughs of New York City. As one would expect, these tickets are frequently issued during the morning hours although this seems to be far less likely at 10 a.m. across all boroughs which would require further investigation to understand whether this is caused by a data quality problem or not.
 
 ![Plot frequency of parking tickets per hour of day by borough](https://github.com/VIDA-NYU/openclean/raw/blog/docs/blog/graphics/plot.png)
+
+
 ## Summary
 
-This post gives an overview of the ideas and basic operators in openclean, a open-source Python library for data cleaning and profiling. openclean integrates data profiling and cleaning tools in a single environment that is easy and intuitive to use. We designed openclean to be extensible and make it easy to add new functionality. By doing so, it will not only become easier for users to access state-of-the-art algorithms for their data wrangling efforts, but also allow researchers to integrate their work and evaluate its effectiveness in practice. In future posts, we will discuss how interested developers and researchers can integrate their data profiling and cleaning algorithms into openclean.
+This post gives an overview of the ideas and basic operators in **openclean**, a open-source Python library for data cleaning and profiling. **openclean** integrates data profiling and cleaning tools in a single environment that is easy and intuitive to use. We designed **openclean** to be extensible and make it easy to add new functionality. By doing so, it will not only become easier for users to access state-of-the-art algorithms for their data wrangling efforts, but also allow researchers to integrate their work and evaluate its effectiveness in practice. In future posts, we will discuss how interested developers and researchers can integrate their data profiling and cleaning algorithms into **openclean**.
 
 
+To try out **openclean**, please have a look at the [GitHub repository](https://github.com/VIDA-NYU/openclean) and the example notebooks.
 
-To try out openclean, please have a look at the [GitHub repository](https://github.com/VIDA-NYU/openclean) and the example notebooks.
 
 ## Acknowledgements
 
 This work was partially supported by the DARPA D3M program, NSF awards OAC-1640864 and OAC-1841471, and the NYU Moore Sloan Data Science Environment.
 
+
 ## References
 
-[1]  Ziawasch Abedjan, Lukasz Golab, and Felix Naumann. Profiling Relational Data: A Survey. The VLDB Journal, 24, 4 (Aug. 2015).
+[1]  Ziawasch Abedjan, Lukasz Golab, and Felix Naumann. Profiling Relational Data: A Survey (2015). The VLDB Journal, 24, 4.
 
-[2]  Mazhar Hameed and Felix Naumann. Data Preparation: A Survey of Commercial Tools. SIGMOD Rec. 49, 3 (Dec. 2020).
+[2]  Mazhar Hameed and Felix Naumann. Data Preparation: A Survey of Commercial Tools (2020). SIGMOD Rec. 49, 3.
