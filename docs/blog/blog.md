@@ -1,6 +1,9 @@
 
 # The openclean Open-Source Data Cleaning Library
 
+###### Joint work by Heiko Müller, Sonia Castelo, Munaf Qazi, and Juliana Freire
+
+
 Data preparation is still a major bottleneck for many data science projects. A [frequently cited survey in 2016](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says) found that data scientists spend 60% of their time on data cleaning and organizing data. In the same survey, 57% of the data scientists also stated that they consider data cleaning and organizing data as the least enjoyable task of their job.
 
 Over the years, many tools for profiling, preparing, and cleaning data have been developed, both in academia and industry (see \[1, 2\] for overviews). These approaches were developed in isolation and in different programming languages with no standardized interfaces. Thus, it is difficult for data scientists to combine existing tools and re-use them in their data processing pipelines.
@@ -47,7 +50,7 @@ ds = stream(datafile)
 ds.head()
 ```
 
-![](https://lh3.googleusercontent.com/2_qdx-OeII4LHmz4s0ANuxbvV_R9KIcn_R2MCCMphK_iWumm_VDuGdze-5_6upjYmo0oWMW-vA0HuTYO-c8ZfwYQUPyibM0uxu-t3fSVL0MjEM1PKruSWEtPFzv9zdumYovIgsRB)
+![Data frame head](https://github.com/VIDA-NYU/openclean/raw/blog/docs/blog/graphics/figure1.png)
 
 ### Data Profiling
 
@@ -65,7 +68,7 @@ profiles = ds\
 profiles.stats()
 ```
 
-![](https://lh3.googleusercontent.com/F3armZEo6QOfMIFkG1huRh0t3PwR-Pbv_XPN5wUtYdqw_OJkN2nAlOSPrw2mXK9Kx8bMaAYsharyXtAxtRpowItMgzKmIXPIORBlT26iuYUKN7ao2Ra51pgVx2mO8OrLiCASW1zk)
+![Profiling results](https://github.com/VIDA-NYU/openclean/raw/blog/docs/blog/graphics/figure2.png)
 
 **openclean** is designed to be extensible, to make it easy to add new functionality, and to customize data profiling and cleaning operators. In the previous example, we could use any profiler that implements the [openclean.profiling.base.DataProfiler](https://github.com/VIDA-NYU/openclean-core/blob/master/openclean/profiling/base.py) class instead of the default profiler. One example is the [datamart-profiler](https://pypi.org/project/datamart-profiler/) (used by the [notebook extension of openclean](https://github.com/VIDA-NYU/openclean-notebook)) that provides a richer set of metadata and more powerful data type detection compared to the default column profiler (see discussion in GUI - Integration with Jupyter Notebooks).
 
@@ -257,7 +260,7 @@ df = db.load_dataset(df, 'street_cleaning_violations')
 df.head()
 ```
 
-![](https://lh5.googleusercontent.com/k_wd2WmV87wYvd6Du6CwiLSaiv7RtdVsI5ajXNeNPqgYNScMB8cm9-KRgqm0nhmLfKI8_DbmQLxHd-EN84rux_6OB-gPno0caSV_TsDM7dh2Jxd79r90Qvo3B0dMD4MrvMaOyCDT)
+![Data frame head](https://github.com/VIDA-NYU/openclean/raw/blog/docs/blog/graphics/figure3.png)
 
 There is a 1:1 mapping between county codes and borough names that we can use to modify the data to get more meaningful values for the borough column. For details, please take a look at the [full notebook](https://github.com/VIDA-NYU/openclean/blob/master/examples/notebooks/Parking%20Violations%20-%20Profiling%20and%20Cleaning%20Example.ipynb). We also translate the violation time into a 24 hour value. This can be done using the user-defined `time_to_hour24` function below. In this example, we also show how to register the function with the database object. All registered functions are then available to the user in the spreadsheet view and can be applied on the dataset columns. **openclean** also supports materialization of registered functions which makes it possible to re-use the functions in different notebooks or share them among trusted users.
 
@@ -272,7 +275,7 @@ def  time_to_hour24(value):
 
 db.edit('street_cleaning_violations', n=1000, random_state=42)
 ```
-![](https://lh5.googleusercontent.com/_w1w_5IUBkCbuxFURSRNHpr6gfIxbvIq4n2Ns6aP3fyfCVRUh_kZ4WetHkyzpL2PXCNPAKeiG462KnULIvN6KK0MXRLD9u4L2R-z2eXmvtvGAkzzwy7GDLJNZxWZqzBHlgiVDVEq)
+![openclean GUI](https://github.com/VIDA-NYU/openclean/raw/blog/docs/blog/graphics/gui.png)
 The spreadsheet view provides easy-to-use visualizations for data analysis and exploration. It displays profiling results for each column, including inferred data types and statistical information such as mean, standard deviation, and unique values, at different levels of detail (compact, detail, and column views) together with histograms of column values and inferred column types.
 
 The GUI allows users to apply transformation operators on the spreadsheet using registered functions. The history of applied functions is shown as part of the spreadsheet view, i.e., the recipe. In the example we use a sample. The recipe, once finished, can then be applied on the full dataset, either using the apply button or when checking out the full dataset after the user is done with the spreadsheet view.
@@ -283,7 +286,7 @@ df = db.checkout('street_cleaning_violations', commit=True)
 
 To conclude our example, we demonstrate how existing Python visualization packages (e.g., [seaborn](https://seaborn.pydata.org/) in this case) can be used to create a plot that shows how likely it is during different times of the day to receive a parking ticket (violation code 21) in each of the five boroughs of New York City. As one would expect, these tickets are frequently issued during the morning hours although this seems to be far less likely at 10 a.m. across all boroughs which would require further investigation to understand whether this is caused by a data quality problem or not.
 
-![](https://lh5.googleusercontent.com/ZUNecgWGvT9uDC3YWH6W2f24z_uBTRIX1U-CeExrd2lGGdCC-A9nKtsF-5HljPXEavhV00vcCulAXKJ_-MMMYF6JNxBVI9gxRm2SjVSXFSTaS63lwzS360zvP5hADbMIDZX0SqAz)
+![Plot frequency of parking tickets per hour of day by borough](https://github.com/VIDA-NYU/openclean/raw/blog/docs/blog/graphics/plot.png)
 ## Summary
 
 This post gives an overview of the ideas and basic operators in openclean, a open-source Python library for data cleaning and profiling. openclean integrates data profiling and cleaning tools in a single environment that is easy and intuitive to use. We designed openclean to be extensible and make it easy to add new functionality. By doing so, it will not only become easier for users to access state-of-the-art algorithms for their data wrangling efforts, but also allow researchers to integrate their work and evaluate its effectiveness in practice. In future posts, we will discuss how interested developers and researchers can integrate their data profiling and cleaning algorithms into openclean.
