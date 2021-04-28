@@ -2,6 +2,12 @@
 openclean - Data Cleaning for Python
 ====================================
 
+.. image:: https://img.shields.io/pypi/pyversions/openclean.svg
+    :target: https://pypi.org/pypi/openclean
+
+.. image:: https://badge.fury.io/py/openclean.svg
+    :target: https://badge.fury.io/py/openclean
+
 .. image:: https://img.shields.io/badge/License-BSD-green.svg
     :target: https://github.com/VIDA-NYU/openclean/blob/master/LICENSE
 
@@ -45,13 +51,20 @@ openclean comes with a mini-version control engine that allows users to maintain
 Installation
 ==============
 
-Install **openclean** from the GitHub repository using ``pip`` with:
+Install **openclean** from PyPI using ``pip`` with:
 
 .. code-block:: bash
 
-    pip install git+git://github.com/VIDA-NYU/openclean.git
+    pip install openclean
 
-**Note**: See the *Demo* section below for instructions to run the `example notebooks <https://github.com/VIDA-NYU/openclean/tree/master/examples/notebooks>`_ in this repository.
+You can also install the different openclean extensions ``openclean-geo``, ``openclean-metanome``, ``openclean-notebook``, and ``openclean-pattern``, or install openclean with all the extensions:
+
+.. code-block:: bash
+
+    pip install openclean[full]
+
+
+ **Note**: See the *Demo* section below for instructions to run the `example notebooks <https://github.com/VIDA-NYU/openclean/tree/master/examples/notebooks>`_ in this repository.
 
 Usage
 =====
