@@ -278,7 +278,7 @@ def  time_to_hour24(value):
 
 db.edit('street_cleaning_violations', n=1000, random_state=42)
 ```
-![openclean GUI](https://raw.githubusercontent.com/VIDA-NYU/openclean/master/docs/blog/graphics/gui.png)
+![openclean GUI](https://raw.githubusercontent.com/VIDA-NYU/openclean/master/docs/blog/graphics/blog-ui-gif-annotated.gif)
 The spreadsheet view provides easy-to-use visualizations for data analysis and exploration. It displays profiling results for each column, including inferred data types and statistical information such as mean, standard deviation, and unique values, at different levels of detail (compact, detail, and column views) together with histograms of column values and inferred column types.
 
 The GUI allows users to apply transformation operators on the spreadsheet using registered functions. The history of applied functions is shown as part of the spreadsheet view, i.e., the recipe. In the example we use a sample. The recipe, once finished, can then be applied on the full dataset, either using the apply button or when checking out the full dataset after the user is done with the spreadsheet view.
