@@ -64,7 +64,7 @@ You can also install the different openclean extensions ``openclean-geo``, ``ope
     pip install openclean[full]
 
 
- **Note**: See the *Demo* section below for instructions to run the `example notebooks <https://github.com/VIDA-NYU/openclean/tree/master/examples/notebooks>`_ in this repository.
+**Note**: See the *Demo* section below for instructions to run the `example notebooks <https://github.com/VIDA-NYU/openclean/tree/master/examples/notebooks>`_ in this repository.
 
 Usage
 =====
