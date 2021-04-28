@@ -108,7 +108,7 @@ Documentation
 =============
 The official documentation is hosted on readthedocs: http://openclean.readthedocs.io/
 
-You can also read more about openclean in this blog post (on [GitHub](https://github.com/VIDA-NYU/openclean/blob/master/docs/blog/blog.md)).
+You can also read more about openclean in this blog post (on `GitHub <https://github.com/VIDA-NYU/openclean/blob/master/docs/blog/blog.md>`_).
 
 Contributing
 ============
