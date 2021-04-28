@@ -18,7 +18,7 @@ docker_requires = ['docker']
 
 geo_requires = ['openclean-geo==0.1.0']
 metanome_requires = ['openclean-metanome==0.1.0']
-notebook_requires = ['openclean-notebook==0.1.3']
+notebook_requires = ['openclean-notebook==0.1.5']
 pattern_requires = ['openclean-pattern==0.0.1']
 openclean_extension = geo_requires + metanome_requires + notebook_requires
 
