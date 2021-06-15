@@ -1,6 +1,6 @@
-openclean-core==0.4.0
+openclean-core==0.4.1
 openclean-geo==0.1.0
-openclean-metanome==0.1.0
+openclean-metanome==0.2.0
 openclean-notebook==0.1.5
 openclean-pattern==0.0.1
 docker
