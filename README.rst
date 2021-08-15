@@ -71,8 +71,8 @@ Usage
 
 We include several example notebooks in this repository that demonstrate possible use cases for **openclean**. We recommend starting with the `documentation <http://openclean.readthedocs.io/>`_ or the New York City Restaurant Inspection Results notebook. In that example our goal is to reproduce a previous `study from 2014 that looks at the distribution of restaurant inspection grades in New York City <https://iquantny.tumblr.com/post/76928412519/think-nyc-restaurant-grading-is-flawed-heres>`_. For our study, we use data that was downloaded in Sept. 2019. The example is split into two different Jupyter notebooks:
 
-- `Data Profiling <https://github.com/VIDA-NYU/openclean-core/blob/master/examples/notebooks/NYCRestaurantInspections/NYC%20Restaurant%20Inspections%20-%20Profiling.ipynb>`_
-- `Data Cleaning <https://github.com/VIDA-NYU/openclean-core/blob/master/examples/notebooks/NYCRestaurantInspections/NYC%20Restaurant%20Inspections%20-%20Cleaning.ipynb>`_
+- `Data Profiling <https://github.com/VIDA-NYU/openclean-core/blob/master/examples/notebooks/nyc-restaurant-inspections/NYC%20Restaurant%20Inspections%20-%20Profiling.ipynb>`_
+- `Data Cleaning <https://github.com/VIDA-NYU/openclean-core/blob/master/examples/notebooks/nyc-restaurant-inspections/NYC%20Restaurant%20Inspections%20-%20Cleaning.ipynb>`_
 
 Other examples along with the datasets are located in `the examples' folder <https://github.com/VIDA-NYU/openclean-core/tree/master/examples/notebooks>`_
 

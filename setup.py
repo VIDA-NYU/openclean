@@ -18,7 +18,7 @@ docker_requires = ['docker']
 
 geo_requires = ['openclean-geo==0.1.0']
 metanome_requires = ['openclean-metanome==0.2.0']
-notebook_requires = ['openclean-notebook==0.1.5']
+notebook_requires = ['openclean-notebook==0.1.7']
 pattern_requires = ['openclean-pattern==0.0.1']
 openclean_extension = geo_requires + metanome_requires + notebook_requires + pattern_requires
 
@@ -41,7 +41,7 @@ with open('README.rst', 'rt') as f:
 
 setup(
     name='openclean',
-    version='0.2.0',
+    version='0.2.1',
     description='Library for data cleaning and data profiling',
     long_description=readme,
     long_description_content_type='text/x-rst',
